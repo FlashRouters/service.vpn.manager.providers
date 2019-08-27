@@ -40,8 +40,10 @@ Sweden (UDP),se1.safervpn.com,udp,1195
 Sweden (TCP),se1.safervpn.com,tcp,443
 Switzerland (UDP),ch1.safervpn.com,udp,1195
 Switzerland (TCP),ch1.safervpn.com,tcp,443
-UK (UDP),uk1.safervpn.com,udp,1195
-UK (TCP),uk1.safervpn.com,tcp,443
+UK1 (UDP),uk1.safervpn.com,udp,1195
+UK1 (TCP),uk1.safervpn.com,tcp,443
+UK2 (UDP),uk2.safervpn.com,udp,1195
+UK2 (TCP),uk2.safervpn.com,tcp,443
 US East (UDP),us1.safervpn.com,udp,1195
 US East (TCP),us1.safervpn.com,tcp,443
 US West (UDP),us2.safervpn.com,udp,1195
