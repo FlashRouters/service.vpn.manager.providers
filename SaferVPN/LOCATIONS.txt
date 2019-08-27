@@ -1,11 +1,17 @@
+Argentina (UDP),ar1.safervpn.com,udp,1195
+Argentina (TCP),ar1.safervpn.com,tcp,443
 Australia (UDP),au1.safervpn.com,udp,1195
 Australia (TCP),au1.safervpn.com,tcp,443
 Austria (UDP),at1.safervpn.com,udp,1195
 Austria (TCP),at1.safervpn.com,tcp,443
+Belgium (UDP),be1.safervpn.com,udp,1195
+Belgium (TCP),be1.safervpn.com,tcp,443
 Brazil (UDP),br1.safervpn.com,udp,1195
 Brazil (TCP),br1.safervpn.com,tcp,443
 Canada (UDP),ca1.safervpn.com,udp,1195
 Canada (TCP),ca1.safervpn.com,tcp,443
+Cyprus (UDP),cy1.safervpn.com,udp,1195
+Cyprus (TCP),cy1.safervpn.com,tcp,443
 Denmark (UDP),dk1.safervpn.com,udp,1195
 Denmark (TCP),dk1.safervpn.com,tcp,443
 Finland (UDP),fl1.safervpn.com,udp,1195
@@ -16,22 +22,36 @@ Germany (UDP),de1.safervpn.com,udp,1195
 Germany (TCP),de1.safervpn.com,tcp,443
 Hong Kong (UDP),hk1.safervpn.com,udp,1195
 Hong Kong (TCP),hk1.safervpn.com,tcp,443
+Hungary (UDP),hu1.safervpn.com,udp,1195
+Hungary (TCP),hu1.safervpn.com,tcp,443
 India (UDP),in1.safervpn.com,udp,1195
 India (TCP),in1.safervpn.com,tcp,443
+Ireland (UDP),ie1.safervpn.com,udp,1195
+Ireland (TCP),ie1.safervpn.com,tcp,443
 Israel (UDP),il1.safervpn.com,udp,1195
 Israel (TCP),il1.safervpn.com,tcp,443
 Italy (UDP),it1.safervpn.com,udp,1195
 Italy (TCP),it1.safervpn.com,tcp,443
 Japan (UDP),jp1.safervpn.com,udp,1195
 Japan (TCP),jp1.safervpn.com,tcp,443
+Mexico (UDP),mx1.safervpn.com,udp,1195
+Mexico (TCP),mx1.safervpn.com,tcp,443
 Netherlands (UDP),nl1.safervpn.com,udp,1195
 Netherlands (TCP),nl1.safervpn.com,tcp,443
 Norway (UDP),no1.safervpn.com,udp,1195
 Norway (TCP),no1.safervpn.com,tcp,443
+New Zealand (UDP),nz1.safervpn.com,udp,1195
+New Zealand (TCP),nz1.safervpn.com,tcp,443
 Poland (UDP),pl1.safervpn.com,udp,1195
 Poland (TCP),pl1.safervpn.com,tcp,443
+Portugal (UDP),pt1.safervpn.com,udp,1195
+Portugal (TCP),pt1.safervpn.com,tcp,443
+Romania (UDP),ro1.safervpn.com,udp,1195
+Romania (TCP),ro1.safervpn.com,tcp,443
 Russia (UDP),ru1.safervpn.com,udp,1195
 Russia (TCP),ru1.safervpn.com,tcp,443
+South Africa (UDP),za1.safervpn.com,udp,1195
+South Africa (TCP),za1.safervpn.com,tcp,443
 Singapore (UDP),sg1.safervpn.com,udp,1195
 Singapore (TCP),sg1.safervpn.com,tcp,443
 Spain (UDP),es1.safervpn.com,udp,1195
@@ -40,6 +60,8 @@ Sweden (UDP),se1.safervpn.com,udp,1195
 Sweden (TCP),se1.safervpn.com,tcp,443
 Switzerland (UDP),ch1.safervpn.com,udp,1195
 Switzerland (TCP),ch1.safervpn.com,tcp,443
+Thailand (UDP),th1.safervpn.com,udp,1195
+Thailand (TCP),th1.safervpn.com,tcp,443
 UK1 (UDP),uk1.safervpn.com,udp,1195
 UK1 (TCP),uk1.safervpn.com,tcp,443
 UK2 (UDP),uk2.safervpn.com,udp,1195
