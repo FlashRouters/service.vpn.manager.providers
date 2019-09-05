@@ -1,6 +1,0 @@
-1549997867
-400 4
-LOCATIONS.txt
-TEMPLATE.txt
-ca.crt
-ta.key
