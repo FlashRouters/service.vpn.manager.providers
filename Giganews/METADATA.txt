@@ -1,6 +1,0 @@
-1490706325
-400 5
-LOCATIONS Giganews Default Encryption.txt
-LOCATIONS Giganews Strong Encryption.txt
-TEMPLATE.txt
-ca.crt
