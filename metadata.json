@@ -52,18 +52,8 @@
             "value": ["Surfshark"]
         },
         {
-            "name": "ivacy",
-            "value": [
-                "Ivacy",
-                "Ivacy-China"
-            ]
-        },
-        {
             "name": "goldenfrog",
-            "value": [
-                "VyprVPN",
-                "Giganews"
-            ]
+            "value": ["VyprVPN"]
         }
     ],
     "affiliate_links": [
