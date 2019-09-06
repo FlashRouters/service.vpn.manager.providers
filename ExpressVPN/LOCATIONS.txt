@@ -34,6 +34,7 @@ Estonia (UDP),estonia-ca-version-2.expressnetw.com,udp,1195
 Finland (UDP),finland-ca-version-2.expressnetw.com,udp,1195
 France - Paris - 1 (UDP),france-paris-1-ca-version-2.expressnetw.com,udp,1195
 France - Paris - 2 (UDP),france-paris-2-ca-version-2.expressnetw.com,udp,1195
+France - Strasbourg (UDP),france-strasbourg-ca-version-2.expressnetw.com,udp,1195
 Georgia (UDP),georgia-ca-version-2.expressnetw.com,udp,1195
 Germany - Darmstadt (UDP),germany-darmstadt-ca-version-2.expressnetw.com,udp,1195
 Germany - Frankfurt - 1 (UDP),germany-frankfurt-1-ca-version-2.expressnetw.com,udp,1195
@@ -120,13 +121,16 @@ USA - Dallas - 2 (UDP),usa-dallas-2-ca-version-2.expressnetw.com,udp,1195
 USA - Dallas (UDP),usa-dallas-ca-version-2.expressnetw.com,udp,1195
 USA - Denver (UDP),usa-denver-ca-version-2.expressnetw.com,udp,1195
 USA - Kansas City (UDP),usa-kansascity-ca-version-2.expressnetw.com,udp,1195
+USA - Los Angeles - 1 (UDP),usa-losangeles-1-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 2 (UDP),usa-losangeles-2-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 3 (UDP),usa-losangeles-3-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles - 4 (UDP),usa-los-angeles-4-ca-version-2.expressnetw.com,udp,1195
+USA - Los Angeles - 5 (UDP),usa-losangeles5-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles (UDP),usa-losangeles-ca-version-2.expressnetw.com,udp,1195
 USA - Miami (UDP),usa-miami-ca-version-2.expressnetw.com,udp,1195
 USA - Minneapolis (UDP),usa-minneapolis-ca-version-2.expressnetw.com,udp,1195
 USA - New Jersey - 1 (UDP),usa-newjersey-1-ca-version-2.expressnetw.com,udp,1195
+USA - New Jersey - 2 (UDP),usa-newjersey2-ca-version-2.expressnetw.com,udp,1195
 USA - New Jersey - 3 (UDP),usa-newjersey-3-ca-version-2.expressnetw.com,udp,1195
 USA - New York - 2 (UDP),us-new-york-2-ca-version-2.expressnetw.com,udp,1195
 USA - New York (UDP),usa-newyork-ca-version-2.expressnetw.com,udp,1195
