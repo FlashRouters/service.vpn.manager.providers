@@ -1,86 +1,134 @@
-United States East (UDP),us-east.windscribe.com,udp,443
-United States East (TCP),us-east.windscribe.com,tcp,443
-United States West (UDP),us-west.windscribe.com,udp,443
-United States West (TCP),us-west.windscribe.com,tcp,443
-United States Windflix US (UDP),wf-us.windscribe.com,udp,1194
-United States Windflix US (TCP),wf-us.windscribe.com,tcp,443
-Canada (UDP),ca.windscribe.com,udp,443
-Canada (TCP),ca.windscribe.com,tcp,443
-United Kingdom (UDP),uk.windscribe.com,udp,443
-United Kingdom (TCP),uk.windscribe.com,tcp,443
-Netherlands (UDP),nl.windscribe.com,udp,443
-Netherlands (TCP),nl.windscribe.com,tcp,443
-Germany (UDP),de.windscribe.com,udp,443
-Germany (TCP),de.windscribe.com,tcp,443
-France (UDP),fr.windscribe.com,udp,443
-France (TCP),fr.windscribe.com,tcp,443
-Hong Kong (UDP),hk.windscribe.com,udp,443
-Hong Kong (TCP),hk.windscribe.com,tcp,443
-Sweden (UDP),se.windscribe.com,udp,443
-Sweden (TCP),se.windscribe.com,tcp,443
-Luxembourg (UDP),lu.windscribe.com,udp,443
-Luxembourg (TCP),lu.windscribe.com,tcp,443
-Australia (UDP),au.windscribe.com,udp,443
+Albania (UDP),al.windscribe.com,udp,443
+Albania (TCP),al.windscribe.com,tcp,443
+Argentina (UDP),ar.windscribe.com,udp,443
+Argentina (TCP),ar.windscribe.com,tcp,443
 Australia (TCP),au.windscribe.com,tcp,443
-Switzerland (UDP),ch.windscribe.com,udp,443
-Switzerland (TCP),ch.windscribe.com,tcp,443
-Singapore (UDP),sg.windscribe.com,udp,443
-Singapore (TCP),sg.windscribe.com,tcp,443
-Japan (UDP),jp.windscribe.com,udp,443
-Japan (TCP),jp.windscribe.com,tcp,443
-Russia (UDP),ru.windscribe.com,udp,443
-Russia (TCP),ru.windscribe.com,tcp,443
-Romania (UDP),ro.windscribe.com,udp,443
-Romania (TCP),ro.windscribe.com,tcp,443
-Norway (UDP),no.windscribe.com,udp,443
-Norway (TCP),no.windscribe.com,tcp,443
-Spain (UDP),es.windscribe.com,udp,443
-Spain (TCP),es.windscribe.com,tcp,443
-Mexico (UDP),mx.windscribe.com,udp,443
-Mexico (TCP),mx.windscribe.com,tcp,443
-Italy (UDP),it.windscribe.com,udp,443
-Italy (TCP),it.windscribe.com,tcp,443
-India (UDP),in.windscribe.com,udp,443
-India (TCP),in.windscribe.com,tcp,443
-Ireland (UDP),ie.windscribe.com,udp,443
-Ireland (TCP),ie.windscribe.com,tcp,443
-South Korea (UDP),kr.windscribe.com,udp,443
-South Korea (TCP),kr.windscribe.com,tcp,443
-Turkey (UDP),tr.windscribe.com,udp,443
-Turkey (TCP),tr.windscribe.com,tcp,443
-Egypt (UDP),eg.windscribe.com,udp,443
-Egypt (TCP),eg.windscribe.com,tcp,443
-Denmark (UDP),dk.windscribe.com,udp,443
-Denmark (TCP),dk.windscribe.com,tcp,443
-Canada West (UDP),ca-west.windscribe.com,udp,443
-Canada West (TCP),ca-west.windscribe.com,tcp,443
-Brazil (UDP),br.windscribe.com,udp,443
-Brazil (TCP),br.windscribe.com,tcp,443
-United States Central (UDP),us-central.windscribe.com,udp,443
-United States Central (TCP),us-central.windscribe.com,tcp,443
-South Africa (UDP),za.windscribe.com,udp,443
-South Africa (TCP),za.windscribe.com,tcp,443
-New Zealand (UDP),nz.windscribe.com,udp,443
-New Zealand (TCP),nz.windscribe.com,tcp,443
-Poland (UDP),pl.windscribe.com,udp,443
-Poland (TCP),pl.windscribe.com,tcp,443
-Austria (UDP),at.windscribe.com,udp,443
+Australia (UDP),au.windscribe.com,udp,443
 Austria (TCP),at.windscribe.com,tcp,443
-Czech Republic (UDP),cz.windscribe.com,udp,443
-Czech Republic (TCP),cz.windscribe.com,tcp,443
-Hungary (UDP),hu.windscribe.com,udp,443
-Hungary (TCP),hu.windscribe.com,tcp,443
-Taiwan (UDP),tw.windscribe.com,udp,443
-Taiwan (TCP),tw.windscribe.com,tcp,443
-Finland (UDP),fi.windscribe.com,udp,443
-Finland (TCP),fi.windscribe.com,tcp,443
-Bulgaria (UDP),bg.windscribe.com,udp,443
-Bulgaria (TCP),bg.windscribe.com,tcp,443
-Belgium (UDP),be.windscribe.com,udp,443
+Austria (UDP),at.windscribe.com,udp,443
+Azerbaijan (UDP),az.windscribe.com,udp,443
+Azerbaijan (TCP),az.windscribe.com,tcp,443
 Belgium (TCP),be.windscribe.com,tcp,443
-Latvia (UDP),lv.windscribe.com,udp,443
+Belgium (UDP),be.windscribe.com,udp,443
+Bosnia and Herzegovina (UDP),ba.windscribe.com,udp,443
+Bosnia and Herzegovina (TCP),ba.windscribe.com,tcp,443
+Brazil (TCP),br.windscribe.com,tcp,443
+Brazil (UDP),br.windscribe.com,udp,443
+Bulgaria (TCP),bg.windscribe.com,tcp,443
+Bulgaria (UDP),bg.windscribe.com,udp,443
+Canada (TCP),ca.windscribe.com,tcp,443
+Canada (UDP),ca.windscribe.com,udp,443
+Canada West (TCP),ca-west.windscribe.com,tcp,443
+Canada West (UDP),ca-west.windscribe.com,udp,443
+Colombia (UDP),co.windscribe.com,udp,443
+Colombia (TCP),co.windscribe.com,tcp,443
+Croatia (UDP),hr.windscribe.com,udp,443
+Croatia (TCP),hr.windscribe.com,tcp,443
+Czech Republic (TCP),cz.windscribe.com,tcp,443
+Czech Republic (UDP),cz.windscribe.com,udp,443
+Denmark (TCP),dk.windscribe.com,tcp,443
+Denmark (UDP),dk.windscribe.com,udp,443
+Estonia (UDP),ee.windscribe.com,udp,443
+Estonia (TCP),ee.windscribe.com,tcp,443
+Finland (TCP),fi.windscribe.com,tcp,443
+Finland (UDP),fi.windscribe.com,udp,443
+France (TCP),fr.windscribe.com,tcp,443
+France (UDP),fr.windscribe.com,udp,443
+Germany (TCP),de.windscribe.com,tcp,443
+Germany (UDP),de.windscribe.com,udp,443
+Greece (UDP),gr.windscribe.com,udp,443
+Greece (TCP),gr.windscribe.com,tcp,443
+Hong Kong (TCP),hk.windscribe.com,tcp,443
+Hong Kong (UDP),hk.windscribe.com,udp,443
+Hungary (TCP),hu.windscribe.com,tcp,443
+Hungary (UDP),hu.windscribe.com,udp,443
+Iceland (UDP),is.windscribe.com,udp,443
+Iceland (TCP),is.windscribe.com,tcp,443
+India (TCP),in.windscribe.com,tcp,443
+India (UDP),in.windscribe.com,udp,443
+Indonesia (UDP),id.windscribe.com,udp,443
+Indonesia (TCP),id.windscribe.com,tcp,443
+Ireland (TCP),ie.windscribe.com,tcp,443
+Ireland (UDP),ie.windscribe.com,udp,443
+Israel (UDP),il.windscribe.com,udp,443
+Israel (TCP),il.windscribe.com,tcp,443
+Italy (TCP),it.windscribe.com,tcp,443
+Italy (UDP),it.windscribe.com,udp,443
+Japan (TCP),jp.windscribe.com,tcp,443
+Japan (UDP),jp.windscribe.com,udp,443
 Latvia (TCP),lv.windscribe.com,tcp,443
-Ukraine (UDP),ua.windscribe.com,udp,443
-Ukraine (TCP),ua.windscribe.com,tcp,443
-Malaysia (UDP),my.windscribe.com,udp,443
+Latvia (UDP),lv.windscribe.com,udp,443
+Lithuania (UDP),lt.windscribe.com,udp,443
+Lithuania (TCP),lt.windscribe.com,tcp,443
+Luxembourg (TCP),lu.windscribe.com,tcp,443
+Luxembourg (UDP),lu.windscribe.com,udp,443
 Malaysia (TCP),my.windscribe.com,tcp,443
+Malaysia (UDP),my.windscribe.com,udp,443
+Mexico (TCP),mx.windscribe.com,tcp,443
+Mexico (UDP),mx.windscribe.com,udp,443
+Moldova (UDP),md.windscribe.com,udp,443
+Moldova (TCP),md.windscribe.com,tcp,443
+Netherlands (TCP),nl.windscribe.com,tcp,443
+Netherlands (UDP),nl.windscribe.com,udp,443
+New Zealand (TCP),nz.windscribe.com,tcp,443
+New Zealand (UDP),nz.windscribe.com,udp,443
+Norway (TCP),no.windscribe.com,tcp,443
+Norway (UDP),no.windscribe.com,udp,443
+Philippines (UDP),ph.windscribe.com,udp,443
+Philippines (TCP),ph.windscribe.com,tcp,443
+Poland (TCP),pl.windscribe.com,tcp,443
+Poland (UDP),pl.windscribe.com,udp,443
+Portugal (UDP),pt.windscribe.com,udp,443
+Portugal (TCP),pt.windscribe.com,tcp,443
+Romania (TCP),ro.windscribe.com,tcp,443
+Romania (UDP),ro.windscribe.com,udp,443
+Russia (TCP),ru.windscribe.com,tcp,443
+Russia (UDP),ru.windscribe.com,udp,443
+Serbia (UDP),rs.windscribe.com,udp,443
+Serbia (TCP),rs.windscribe.com,tcp,443
+Singapore (TCP),sg.windscribe.com,tcp,443
+Singapore (UDP),sg.windscribe.com,udp,443
+Slovenia (UDP),si.windscribe.com,udp,443
+Slovenia (TCP),si.windscribe.com,tcp,443
+Slovakia (UDP),sk.windscribe.com,udp,443
+Slovakia (TCP),sk.windscribe.com,tcp,443
+South Africa (TCP),za.windscribe.com,tcp,443
+South Africa (UDP),za.windscribe.com,udp,443
+South Korea (TCP),kr.windscribe.com,tcp,443
+South Korea (UDP),kr.windscribe.com,udp,443
+Spain (TCP),es.windscribe.com,tcp,443
+Spain (UDP),es.windscribe.com,udp,443
+Sweden (TCP),se.windscribe.com,tcp,443
+Sweden (UDP),se.windscribe.com,udp,443
+Switzerland (TCP),ch.windscribe.com,tcp,443
+Switzerland (UDP),ch.windscribe.com,udp,443
+Taiwan (TCP),tw.windscribe.com,tcp,443
+Taiwan (UDP),tw.windscribe.com,udp,443
+Thailand (UDP),th.windscribe.com,udp,443
+Thailand (TCP),th.windscribe.com,tcp,443
+Tunisia (UDP),tn.windscribe.com,udp,443
+Tunisia (TCP),tn.windscribe.com,tcp,443
+Turkey (TCP),tr.windscribe.com,tcp,443
+Turkey (UDP),tr.windscribe.com,udp,443
+UAE (UDP),ae.windscribe.com,udp,443
+UAE (TCP),ae.windscribe.com,tcp,443
+Ukraine (TCP),ua.windscribe.com,tcp,443
+Ukraine (UDP),ua.windscribe.com,udp,443
+United Kingdom (TCP),uk.windscribe.com,tcp,443
+United Kingdom (UDP),uk.windscribe.com,udp,443
+United States Central (TCP),us-central.windscribe.com,tcp,443
+United States Central (UDP),us-central.windscribe.com,udp,443
+United States East (TCP),us-east.windscribe.com,tcp,443
+United States East (UDP),us-east.windscribe.com,udp,443
+United States West (TCP),us-west.windscribe.com,tcp,443
+United States West (UDP),us-west.windscribe.com,udp,443
+Vietnam (UDP),vn.windscribe.com,udp,443
+Vietnam (TCP),vn.windscribe.com,tcp,443
+Windflix Canada (UDP),wf-ca.windscribe.com,udp,443
+Windflix Canada (TCP),wf-ca.windscribe.com,tcp,443
+Windflix Japan (UDP),wf-jp.windscribe.com,udp,443
+Windflix Japan (TCP),wf-jp.windscribe.com,tcp,443
+Windflix UK (UDP),wf-uk.windscribe.com,udp,443
+Windflix UK (TCP),wf-uk.windscribe.com,tcp,443
+Windflix US (TCP),wf-us.windscribe.com,tcp,443
+Windflix US (UDP),wf-us.windscribe.com,udp,1194
