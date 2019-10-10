@@ -48,6 +48,10 @@
             "value": ["ExpressVPN"]
         },
         {
+            "name": "ghost",
+            "value": ["CyberGhost"]
+        },
+        {
             "name": "surf",
             "value": ["Surfshark"]
         },
