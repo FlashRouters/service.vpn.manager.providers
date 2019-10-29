@@ -14,8 +14,8 @@ Armenia (TCP),am1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Armenia - upd,am1-ovpn-udp.pointtoserver.com,tcp,53,
 Aruba (TCP),aw1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Aruba (UDP),aw1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
-Australia Melbourne (TCP),au-me1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Australia Melbourne (UDP),au-me1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
+Australia Melbourne (TCP),au-me-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+Australia Melbourne (UDP),au-me-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
 Australia Perth (TCP),au-pe1-ovpn-tcp.pointtoserver,tcp,80,#REMOVE=2
 Australia Perth (UDP),au-pe1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
 Australia Sydney 1 (TCP),vlus-au-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
