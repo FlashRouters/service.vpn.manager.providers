@@ -1,0 +1,2 @@
+US - USA (TCP),93-1-us.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+US - USA (UDP),94-1-us.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
