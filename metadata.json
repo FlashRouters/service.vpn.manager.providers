@@ -53,6 +53,10 @@
             "value": ["CyberGhost"]
         },
         {
+            "name": "ghost1",
+            "value": ["CGG4"]
+        },
+        {
             "name": "surf",
             "value": ["Surfshark"]
         },
