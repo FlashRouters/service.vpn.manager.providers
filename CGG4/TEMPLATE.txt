@@ -1,0 +1,21 @@
+client
+proto #PROTO
+remote #SERVER #PORT
+dev tun
+auth-user-pass #PASS
+resolv-retry infinite 
+redirect-gateway def1
+persist-key
+persist-tun
+nobind
+cipher AES-128-GCM
+ncp-ciphers AES-128-GCM:AES-128-CBC:AES-256-GCM:AES-256-CBC
+auth sha256
+script-security 2
+remote-cert-tls server
+route-delay 5
+verb 4
+#REMOVE1comp-lzo no
+ca #CERT
+cert #USERCERT
+key #USERKEY
