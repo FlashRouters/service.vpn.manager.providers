@@ -15,7 +15,6 @@ script-security 2
 remote-cert-tls server
 route-delay 5
 verb 4
-#REMOVE1comp-lzo no
 pull-filter ignore "ifconfig-ipv6 "
 pull-filter ignore "route-ipv6 "
 ca #CERT
