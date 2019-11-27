@@ -15,8 +15,8 @@ script-security 2
 remote-cert-tls server
 route-delay 5
 verb 4
-pull-filter ignore "ifconfig-ipv6"
-pull-filter ignore "route-ipv6"
+pull-filter ignore "ifconfig-ipv6 "
+pull-filter ignore "route-ipv6 "
 ca #CERT
 cert #USERCERT
 key #USERKEY
