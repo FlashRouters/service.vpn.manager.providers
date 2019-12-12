@@ -7,14 +7,14 @@ CZ - Czechia (UDP),87-1-cz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXI
 DE - Germany (UDP),87-1-de.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 ES - Spain (UDP),87-1-es.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 FR - France (UDP),87-1-fr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
-GB - United Kingdom	(UDP),87-1-gb.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+GB - United Kingdom (UDP),87-1-gb.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 GR - Greece (UDP),87-1-gr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 HK - Hong Kong (UDP),95-1-hk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 IE - Ireland (UDP),87-1-ie.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 IT - Italy (UDP),87-1-it.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 JP - Japan (UDP),95-1-jp.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 NL - Netherlands (UDP),87-1-nl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
-PL - Poland	(UDP),87-1-pl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PL - Poland (UDP),87-1-pl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 RO - Romania (UDP),87-1-ro.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 SE - Sweden (UDP),87-1-se.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 SG - Singapore (UDP),95-1-sg.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
@@ -29,7 +29,7 @@ CZ - Czechia (TCP),97-1-cz.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 DE - Germany (TCP),97-1-de.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 ES - Spain (TCP),97-1-es.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 FR - France (TCP),97-1-fr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
-GB - United Kingdom	(TCP),97-1-gb.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+GB - United Kingdom (TCP),97-1-gb.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 GR - Greece (TCP),97-1-gr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 HK - Hong Kong (TCP),96-1-hk.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
 IE - Ireland (TCP),97-1-ie.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
