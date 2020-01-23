@@ -324,8 +324,8 @@ Turks and Caicos Island (TCP),vleu-tc1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE
 Turks and Caicos Island (UDP),vleu-tc1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
 UAE (TCP),ae1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 UAE (UDP),ae1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
-UK - UK Dedicated IP,uk-ddos-1.pointtoserver.com,tcp,80,#REMOVE=2
-UK - UK Dedicated IP,uk-ddos-1.pointtoserver.com,udp,53,#REMOVE=1
+UK - UK Dedicated IP (TCP),uk-ddos-1.pointtoserver.com,tcp,80,#REMOVE=2
+UK - UK Dedicated IP (UDP),uk-ddos-1.pointtoserver.com,udp,53,#REMOVE=1
 Ukraine (TCP),ua1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Ukraine (UDP),ua1-ovpn-udp.pointtoserver.com,udp,53,#REMOVE=1
 Uzbekistan (TCP),vlus-uz-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
