@@ -8,16 +8,15 @@ redirect-gateway def1
 persist-key
 persist-tun
 nobind
-cipher AES-256-CBC
+cipher AES-128-GCM
+ncp-ciphers AES-128-GCM:AES-128-CBC:AES-256-GCM:AES-256-CBC
 auth sha256
 script-security 2
 remote-cert-tls server
-route-delay 2
-#REMOVE1tun-mtu 1500 
-#REMOVE1fragment 1300
-#REMOVE1mssfix 1200
+route-delay 5
 verb 4
-comp-lzo no
+pull-filter ignore "ifconfig-ipv6 "
+pull-filter ignore "route-ipv6 "
 ca #CERT
 cert #USERCERT
 key #USERKEY
