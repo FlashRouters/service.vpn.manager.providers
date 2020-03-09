@@ -1,0 +1,178 @@
+AD - Andorra (UDP),87-1-ad.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AE - United Arab Emirates (UDP),87-1-ae.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AL - Albania (UDP),87-1-al.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AM - Armenia (UDP),87-1-am.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AR - Argentina (UDP),94-1-ar.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AT - Austria (UDP),87-1-at.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AU - Australia (UDP),95-1-au.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BA - Bosnia & Herzegovina (UDP),87-1-ba.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BD - Bangladesh (UDP),95-1-bd.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BE - Belgium (UDP),87-1-be.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BG - Bulgaria (UDP),87-1-bg.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BR - Brazil (UDP),94-1-br.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BS - Bahamas (UDP),94-1-bs.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+BY - Belarus (UDP),87-1-by.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CA - Canada (UDP),93-1-ca.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CH - Switzerland (UDP),87-1-ch.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CL - Chile (UDP),94-1-cl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CN - China (UDP),95-1-cn.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CO - Colombia (UDP),94-1-co.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CR - Costa Rica (UDP),94-1-cr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CY - Cyprus (UDP),87-1-cy.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+CZ - Czechia (UDP),87-1-cz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+DE - Germany (UDP),87-1-de.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+DK - Denmark (UDP),87-1-al.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+DZ - Algeria (UDP),87-1-dz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+EE - Estonia (UDP),87-1-ee.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+EG - Egypt (UDP),87-1-eg.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+ES - Spain (UDP),87-1-es.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+FI - Finland (UDP),87-1-fi.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+FR - France (UDP),87-1-fr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+GB - United Kingdom (UDP),87-1-gb.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+GE - Georgia (UDP),87-1-ge.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+GL - Greenland (UDP),87-1-gl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+GR - Greece (UDP),87-1-gr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+HK - Hong Kong (UDP),95-1-hk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+HT - Croatia (UDP),87-1-hr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+HU - Hungary (UDP),87-1-hu.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+ID - Indonesia (UDP),95-1-id.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IE - Ireland (UDP),87-1-ie.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IL - Israel (UDP),87-1-il.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IM - Isle of Man (UDP),87-1-im.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IN - India (UDP),87-1-in.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IR - Iran (UDP),87-1-ir.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IS - Iceland (UDP),87-1-is.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+IT - Italy (UDP),87-1-it.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+JP - Japan (UDP),95-1-jp.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+KE - Kenya (UDP),95-1-ke.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+KH - Cambodia (UDP),95-1-kh.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+KR - South Korea (UDP),95-1-kr.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+KZ - Kazakhstan (UDP),87-1-kz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+LI - Liechtenstein (UDP),87-1-li.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+LK - Sri Lanka (UDP),87-1-lk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+LT - Lithuania (UDP),87-1-lt.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+LU - Luxembourg (UDP),87-1-lu.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+LV - Latvia (UDP),87-1-lv.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MA - Morocco (UDP),87-1-ma.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MC - Monaco (UDP),87-1-mc.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MD - Moldova (UDP),87-1-md.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+ME - Montenegro (UDP),87-1-me.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MK - Macedonia (UDP),87-1-mk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MN - Mongolia (UDP),95-1-mn.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MO - Macau (UDP),95-1-mo.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MT - Malta (UDP),87-1-mt.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MX - Mexico (UDP),94-1-mx.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+MY - Malaysia (UDP),95-1-my.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+NG - Nigeria (UDP),87-1-ng.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+NL - Netherlands (UDP),87-1-nl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+NO - Norway (UDP),87-1-no.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+NZ - New Zealand (UDP),95-1-nz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PA - Panama (UDP),87-1-pa.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PK - Pakistan (UDP),87-1-pk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PL - Poland (UDP),87-1-pl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PT - Portugal (UDP),87-1-pt.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+QA - Qatar (UDP),87-1-qa.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+RO - Romania (UDP),87-1-ro.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+RS - Serbia (UDP),87-1-rs.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+RU - Russia (UDP),87-1-ru.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+SA - Saudi Arabia (UDP),87-1-sa.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+SE - Sweden (UDP),87-1-se.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+SG - Singapore (UDP),95-1-sg.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+SI - Slovenia (UDP),87-1-si.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+SK - Slovakia (UDP),87-1-sk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+TH - Thailand (UDP),95-1-th.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+TW - Taiwan (UDP),95-1-tw.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+UA - Ukraine (UDP),87-1-ua.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+US - United States (UDP),93-1-us.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+VE - Venezuela (UDP),87-1-ve.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+VN - Vietnam (UDP),95-1-vn.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+ZA - South Africa (UDP),87-1-za.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+AD - Andorra (TCP),97-1-ad.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AE - United Arab Emirates (TCP),97-1-ae.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AL - Albania (TCP),97-1-al.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AM - Armenia (TCP),97-1-am.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AR - Argentina (TCP),93-1-ar.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AT - Austria (TCP),97-1-at.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+AU - Australia (TCP),96-1-au.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BA - Bosnia & Herzegovina (TCP),97-1-ba.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BD - Bangladesh (TCP),96-1-bd.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BE - Belgium (TCP),97-1-be.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BG - Bulgaria (TCP),97-1-bg.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BR - Brazil (TCP),93-1-br.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BS - Bahamas (TCP),93-1-bs.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+BY - Belarus (TCP),97-1-by.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CA - Canada (TCP),94-1-ca.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CH - Switzerland (TCP),97-1-ch.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CL - Chile (TCP),93-1-cl.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CN - China (TCP),96-1-cn.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CO - Colombia (TCP),93-1-co.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CR - Costa Rica (TCP),93-1-cr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CY - Cyprus (TCP),97-1-cy.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+CZ - Czechia (TCP),97-1-cz.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+DE - Germany (TCP),97-1-de.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+DK - Denmark (TCP),97-1-al.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+DZ - Algeria (TCP),97-1-dz.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+EE - Estonia (TCP),97-1-ee.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+EG - Egypt (TCP),97-1-eg.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+ES - Spain (TCP),97-1-es.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+FI - Finland (TCP),97-1-fi.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+FR - France (TCP),97-1-fr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+GB - United Kingdom (TCP),97-1-gb.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+GE - Georgia (TCP),97-1-ge.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+GL - Greenland (TCP),97-1-gl.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+GR - Greece (TCP),97-1-gr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+HK - Hong Kong (TCP),96-1-hk.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+HR - Croatia (TCP),97-1-hr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+HU - Hungary (TCP),97-1-hu.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+ID - Indonesia (TCP),96-1-id.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IE - Ireland (TCP),97-1-ie.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IL - Israel (TCP),97-1-il.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IM - Isle of Man (TCP),97-1-im.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IN - India (TCP),97-1-in.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IR - Iran (TCP),97-1-ir.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IS - Iceland (TCP),97-1-is.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+IT - Italy (TCP),97-1-it.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+JP - Japan (TCP),96-1-jp.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+KE - Kenya (TCP),96-1-ke.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+KH - Cambodia (TCP),96-1-kh.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+KR - South Korea (TCP),96-1-kr.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+KZ - Kazakhstan (TCP),97-1-kz.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+LI - Liechtenstein (TCP),97-1-li.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+LK - Sri Lanka (TCP),97-1-lk.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+LT - Lithuania (TCP),97-1-lt.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+LU - Luxembourg (TCP),97-1-lu.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+LV - Latvia (TCP),97-1-lv.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MA - Morocco (TCP),97-1-ma.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MC - Monaco (TCP),97-1-mc.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MD - Moldova (TCP),97-1-md.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+ME - Montenegro (TCP),97-1-me.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MK - Macedonia (TCP),97-1-m.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MN - Mongolia (TCP),96-1-mn.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MO - Macau (TCP),96-1-mo.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MT - Malta (TCP),97-1-mt.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MX - Mexico (TCP),93-1-mx.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+MY - Malaysia (TCP),96-1-my.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+NG - Nigeria (TCP),97-1-ng.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+NL - Netherlands (TCP),97-1-nl.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+NO - Norway (TCP),97-1-no.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+NZ - New Zealand (TCP),96-1-nz.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+PA - Panama (TCP),97-1-pa.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+PK - Pakistan (TCP),97-1-pk.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+PL - Poland (TCP),97-1-pl.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+PT - Portugal (TCP),97-1-pt.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+QA - Qatar (TCP),97-1-qa.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+RO - Romania (TCP),97-1-ro.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+RS - Serbia (TCP),97-1-rs.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+RU - Russia (TCP),97-1-ru.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+SA - Saudi Arabia (TCP),97-1-sa.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+SI - Slovenia (TCP),97-1-si.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+SK - Slovakia (TCP),97-1-sk.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+SE - Sweden (TCP),97-1-se.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+SG - Singapore (TCP),96-1-sg.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+TH - Thailand (TCP),96-1-th.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+TW - Taiwan (TCP),96-1-tw.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+UA - Ukraine (TCP),97-1-ua.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+US - United States (TCP),94-1-us.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+VE - Venezuela (TCP),97-1-ve.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+VN - Vietnam (TCP),96-1-vn.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
+ZA - South Africa (TCP),97-1-za.cg-dialup.net,tcp,443,#PINGSPEED=15 #PINGEXIT=90
