@@ -1,7 +1,8 @@
 client
-dev tun
 proto #PROTO
 remote #SERVER #PORT
+dev tun
+auth-user-pass #PASS
 verify-x509-name Server name
 resolv-retry infinite
 remote-random
@@ -16,7 +17,6 @@ ping-restart 0
 reneg-sec 0
 remote-cert-tls server
 comp-noadapt
-auth-user-pass
 auth sha256
 cipher AES-128-CBC
 verb 3
