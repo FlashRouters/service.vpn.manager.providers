@@ -3,7 +3,7 @@ proto #PROTO
 remote #SERVER #PORT
 dev tun
 auth-user-pass #PASS
-verify-x509-name Server name
+verify-x509-name #SERVER name
 resolv-retry infinite
 remote-random
 nobind
