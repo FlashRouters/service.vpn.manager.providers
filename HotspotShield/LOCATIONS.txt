@@ -1,2 +1,2 @@
-GB - United Kingdom (UDP),penfactory.us,8041
-US - United States (UDP),universitycalendar.us,8041
+GB - United Kingdom (UDP),penfactory.us,udp,8041
+US - United States (UDP),universitycalendar.us,udp,8041
