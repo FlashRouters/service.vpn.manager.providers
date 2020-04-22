@@ -6,17 +6,15 @@ nobind
 persist-key
 persist-tun
 ca #CERT
+cert #USERCERT
+key #USERKEY
 tls-auth #TLSKEY 1
-cipher AES-256-CBC
-comp-lzo
-verb 1
-mute 20
-route-method exe
-route-delay 2
-route 0.0.0.0 0.0.0.0
-tls-cipher "DEFAULT:@SECLEVEL=0"
 auth-user-pass #PASS
-#REMOVE2explicit-exit-notify 2
-#REMOVE1float
-#REMOVE2auth-nocache
-ifconfig-nowarn
+#REMOVE2explicit-exit-notify
+key-direction 1
+remote-cert-tls server
+cipher AES-256-CBC
+route-method exe
+route-delay 0
+route 0.0.0.0 0.0.0.0
+script-security 2
