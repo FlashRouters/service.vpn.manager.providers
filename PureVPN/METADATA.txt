@@ -1,6 +1,8 @@
-1493571097
+1587582407
 400 5
 LOCATIONS.txt
 TEMPLATE.txt
 ca.crt
+user.crt
+user.key
 ta.key
