@@ -298,10 +298,8 @@ Switzerland (TCP),ch1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Switzerland (UDP),ch1-ovpn-udp.pointtoserver.com,udp,53
 Syria (TCP),sy1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Syria (UDP),sy1-ovpn-udp.pointtoserver.com,udp,53
-Taiwan Taipei 1 (TCP),vlap-tw-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Taiwan Taipei 1 (UDP),vlap-tw-ovpn-udp.pointtoserver.com,udp,53
-Taiwan Taipei 2 (TCP),tw-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Taiwan Taipei 2 (UDP),tw-ovpn-udp.pointtoserver.com,udp,53
+Taiwan Taipei (TCP),tw2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+Taiwan Taipei (UDP),tw2-ovpn-udp.pointtoserver.com,udp,53
 Tajikistan (TCP),vlus-tj-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Tajikistan (UDP),vlus-tj-ovpn-udp.pointtoserver.com,udp,53
 Tanzania (TCP),vlus-tz1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
