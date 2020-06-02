@@ -174,8 +174,8 @@ London 1 (TCP),vlsa-ukl-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 London 1 (UDP),vlsa-ukl-ovpn-udp.pointtoserver.com,udp,53
 London 2 (TCP),vlus-ukl-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 London 2 (UDP),vlus-ukl-ovpn-udp.pointtoserver.com,udp,53
-LosAngeles (TCP),usla-ovpn-TCP.pointtoserver.com,tcp,80,#REMOVE=2
-LosAngeles (UDP),usla-ovpn-udp.pointtoserver.com,udp,53
+Los Angeles (TCP),usla2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+Los Angeles (UDP),usla2-ovpn-udp.pointtoserver.com,udp,53
 Luxembourg 1 (TCP),vlus-lu1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Luxembourg 1 (UDP),vlus-lu1-ovpn-udp.pointtoserver.com,udp,53
 Luxembourg 2 (TCP),lu-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
@@ -268,8 +268,8 @@ Russia (TCP),vlus-ru1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Russia (UDP),vlus-ru1-ovpn-udp.pointtoserver.com,udp,53
 Saint Lucia (TCP),vleu-lc1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Saint Lucia (UDP),vleu-lc1-ovpn-udp.pointtoserver.com,udp,53
-San Francisco (TCP),vlsa-ussf-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-San Francisco (UDP),vlsa-ussf-ovpn-udp.pointtoserver.com,udp,53
+San Francisco (TCP),ussf2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+San Francisco (UDP),ussf2-ovpn-udp.pointtoserver.com,udp,53
 Saudi Arabia (TCP),sa1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Saudi Arabia (UDP),sa1-ovpn-udp.pointtoserver.com,udp,53
 Senegal (TCP),vlus-sn1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
