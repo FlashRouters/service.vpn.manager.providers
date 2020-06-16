@@ -1,2 +1,87 @@
+AE - UAE (UDP),marketing-group.us,udp,8041
+AM - Armenia (UDP),lawyerforum.us,udp,8041
+AR - Argentina (UDP),featureads.us,udp,8041
+AT - Austria (UDP),lawyerforum.us,udp,8041
+AU - Australia (UDP),domain-info.us,udp,8041
+AZ - Azerbaijan (UDP),lawyerforum.us,udp,8041
+BA - Bosnia and Herzegovina (UDP),lawyerforum.us,udp,8041
+BD - Bangladesh (UDP),favorite-game.us,udp,8041
+BE - Belgium (UDP),lawyerforum.us,udp,8041
+BG - Bulgaria (UDP),lawyerforum.us,udp,8041
+BN - Brunei Darussalam (UDP),favorite-game.us,udp,8041
+BR - Brazil (UDP),featureads.us,udp,8041,udp,8041
+BS - Bahamas (UDP),featureads.us,udp,8041
+BT - Bhutan (UDP),favorite-game.us,udp,8041
+BY - Belarus (UDP),lawyerforum.us,udp,8041
+BZ - Belize (UDP),pricetrends.us,udp,8041
+CA - Canada (UDP),braincontrols.us,udp,8041
+CH - Switzerland (UDP),metal-band.us,udp,8041
+CL - Chile (UDP),featureads.us,udp,8041
+CN - China (UDP),navyship.us,udp,8041
+CO - Colombia (UDP),featureads.us,udp,8041
+CR - Costa Rica (UDP),featureads.us,udp,8041
+CZ - Czechia (UDP),blushingpink.us,udp,8041
+DE - Germany (UDP),metalinjection.us,udp,8041
+DK - Denmark (UDP),lawyerforum.us,udp,8041
+DZ - Algeria (UDP),lawyerforum.us,udp,8041
+EC - Ecuador (UDP),featureads.us,udp,8041
+EE - Estonia (UDP),lawyerforum.us,udp,8041
+EG - Egypt (UDP),lawyerforum.us,udp,8041
+ES - Spain (UDP),lawyerforum.us,udp,8041
+FI - Finland (UDP),lawyerforum.us,udp,8041
+FR - France (UDP),dog-owner.us,udp,8041
 GB - United Kingdom (UDP),penfactory.us,udp,8041
+GE - Georgia (UDP),lawyerforum.us,udp,8041
+GR - Greece (UDP),lawyerforum.us,udp,8041
+HK - Hong Kong (UDP),navyship.us,udp,8041
+HR - Croatia (UDP),lawyerforum.us,udp,8041
+HU - Hungary (UDP),lawyerforum.us,udp,8041
+ID - Indonesia (UDP),favorite-game.us,udp,8041
+IE - Ireland (UDP),penfactory.us,udp,8041
+IL - Israel (UDP),blushingpink.us,udp,8041
+IL - Israel (UDP),lawyerforum.us,udp,8041
+IM - Isle of Man (UDP),blushingpink.us,udp,8041
+IN - India (UDP),solid-gold.us,udp,8041
+IS - Iceland (UDP),blushingpink.us,udp,8041
+IT - Italy (UDP),blushingpink.us,udp,8041
+JP - Japan (UDP),navyship.us,udp,8041
+KG - Kyrgyzstan (UDP),blushingpink.us,udp,8041
+KH - Cambodia (UDP),favorite-game.us,udp,8041
+KR - South Korea (UDP),navyship.us,udp,8041
+KZ - Kazakhstan (UDP),blushingpink.us,udp,8041
+LA - Laos (UDP),favorite-game.us,udp,8041
+LI - Liechtenstein (UDP),blushingpink.us,udp,8041
+LT - Lithuania (UDP),blushingpink.us,udp,8041
+LU - Luxembourg (UDP),lawyerforum.us,udp,8041
+LV - Latvia (UDP),blushingpink.us,udp,8041
+MC - Monaco (UDP),blushingpink.us,udp,8041
+MD - Moldova (UDP),blushingpink.us,udp,8041
+ME - Montenegro (UDP),blushingpink.us,udp,8041
+MT - Malta (UDP),blushingpink.us,udp,8041
+MX - Mexico (UDP),featureads.us,udp,8041
+MY - Malaysia (UDP),favorite-game.us,udp,8041
+NL - Netherlands (UDP),blushingpink.us,udp,8041
+NO - Norway (UDP),blushingpink.us,udp,8041
+NP - Nepal (UDP),favorite-game.us,udp,8041
+NZ - New Zealand (UDP),domain-info.us,udp,8041
+PA - Panama (UDP),featureads.us,udp,8041
+PE - Peru (UDP),featureads.us,udp,8041
+PH - Philippines (UDP),favorite-game.us,udp,8041
+PK - Pakistan (UDP),favorite-game.us,udp,8041
+PL - Poland (UDP),blushingpink.us,udp,8041
+PT - Portugal (UDP),blushingpink.us,udp,8041
+RO - Romania (UDP),blushingpink.us,udp,8041
+RU - Russia (UDP),lawyerforum.us,udp,8041
+SE - Sweden (UDP),speechwriting.us,udp,8041
+SG - Singapore (UDP),favorite-game.us,udp,8041
+SK - Slovakia (UDP),blushingpink.us,udp,8041
+TH - Thailand (UDP),favorite-game.us,udp,8041
+TR - Turkey (UDP),lawyerforum.us,udp,8041
+TW - Taiwan (UDP),cartruck.us,udp,8041
+UA - Ukraine (UDP),watch-store.us,udp,8041
+US - United States (UDP),windowsand.us,udp,8041
 US - United States (UDP),universitycalendar.us,udp,8041
+UY - Uruguay (UDP),featureads.us,udp,8041
+VE - Venezuela (UDP),featureads.us,udp,8041
+VN - Vietnam (UDP),favorite-game.us,udp,8041
+ZA - South Africa (UDP),educationcurriculum.us,udp,8041
