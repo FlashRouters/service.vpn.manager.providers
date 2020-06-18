@@ -9,7 +9,7 @@ BD - Bangladesh (UDP),favorite-game.us,udp,8041
 BE - Belgium (UDP),lawyerforum.us,udp,8041
 BG - Bulgaria (UDP),lawyerforum.us,udp,8041
 BN - Brunei Darussalam (UDP),favorite-game.us,udp,8041
-BR - Brazil (UDP),featureads.us,udp,8041,udp,8041
+BR - Brazil (UDP),featureads.us,udp,8041
 BS - Bahamas (UDP),featureads.us,udp,8041
 BT - Bhutan (UDP),favorite-game.us,udp,8041
 BY - Belarus (UDP),lawyerforum.us,udp,8041
