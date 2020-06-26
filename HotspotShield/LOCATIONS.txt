@@ -1,7 +1,7 @@
 AE - UAE (UDP),marketing-group.us,udp,8041
 AM - Armenia (UDP),lawyerforum.us,udp,8041
-AR - Argentina (UDP),featureads.us,udp,8041
-AT - Austria (UDP),lawyerforum.us,udp,8041
+AR - Argentina (UDP),giantsand.us,udp,8041
+AT - Austria (UDP),rate-adjustments.us,udp,8041
 AU - Australia (UDP),domain-info.us,udp,8041
 AZ - Azerbaijan (UDP),lawyerforum.us,udp,8041
 BA - Bosnia and Herzegovina (UDP),lawyerforum.us,udp,8041
@@ -9,7 +9,7 @@ BD - Bangladesh (UDP),favorite-game.us,udp,8041
 BE - Belgium (UDP),lawyerforum.us,udp,8041
 BG - Bulgaria (UDP),lawyerforum.us,udp,8041
 BN - Brunei Darussalam (UDP),favorite-game.us,udp,8041
-BR - Brazil (UDP),featureads.us,udp,8041
+BR - Brazil (UDP),centerorient.com,udp,8041
 BS - Bahamas (UDP),featureads.us,udp,8041
 BT - Bhutan (UDP),favorite-game.us,udp,8041
 BY - Belarus (UDP),lawyerforum.us,udp,8041
@@ -26,24 +26,24 @@ DK - Denmark (UDP),lawyerforum.us,udp,8041
 DZ - Algeria (UDP),lawyerforum.us,udp,8041
 EC - Ecuador (UDP),featureads.us,udp,8041
 EE - Estonia (UDP),lawyerforum.us,udp,8041
-EG - Egypt (UDP),lawyerforum.us,udp,8041
-ES - Spain (UDP),lawyerforum.us,udp,8041
+EG - Egypt (UDP),woodenclock.us,udp,8041
+ES - Spain (UDP),gold-holdings.us,udp,8041
 FI - Finland (UDP),lawyerforum.us,udp,8041
 FR - France (UDP),dog-owner.us,udp,8041
 GB - United Kingdom (UDP),penfactory.us,udp,8041
 GE - Georgia (UDP),lawyerforum.us,udp,8041
 GR - Greece (UDP),lawyerforum.us,udp,8041
-HK - Hong Kong (UDP),navyship.us,udp,8041
+HK - Hong Kong (UDP),legal-professionals.us,udp,8041
 HR - Croatia (UDP),lawyerforum.us,udp,8041
 HU - Hungary (UDP),lawyerforum.us,udp,8041
 ID - Indonesia (UDP),favorite-game.us,udp,8041
-IE - Ireland (UDP),penfactory.us,udp,8041
+IE - Ireland (UDP),domainownership.us,udp,8041
 IL - Israel (UDP),blushingpink.us,udp,8041
 IL - Israel (UDP),lawyerforum.us,udp,8041
 IM - Isle of Man (UDP),blushingpink.us,udp,8041
 IN - India (UDP),solid-gold.us,udp,8041
 IS - Iceland (UDP),blushingpink.us,udp,8041
-IT - Italy (UDP),blushingpink.us,udp,8041
+IT - Italy (UDP),myaccesseasy.com,udp,8041
 JP - Japan (UDP),navyship.us,udp,8041
 KG - Kyrgyzstan (UDP),blushingpink.us,udp,8041
 KH - Cambodia (UDP),favorite-game.us,udp,8041
@@ -76,7 +76,7 @@ SE - Sweden (UDP),speechwriting.us,udp,8041
 SG - Singapore (UDP),favorite-game.us,udp,8041
 SK - Slovakia (UDP),blushingpink.us,udp,8041
 TH - Thailand (UDP),favorite-game.us,udp,8041
-TR - Turkey (UDP),lawyerforum.us,udp,8041
+TR - Turkey (UDP),shopping-festival.us,udp,8041
 TW - Taiwan (UDP),cartruck.us,udp,8041
 UA - Ukraine (UDP),watch-store.us,udp,8041
 US - United States (UDP),windowsand.us,udp,8041
