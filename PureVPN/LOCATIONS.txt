@@ -334,8 +334,8 @@ Vietnam (TCP),vlap-vn-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Vietnam (UDP),vlap-vn-ovpn-udp.pointtoserver.com,udp,53
 Virgin Islands (British) (TCP),vg1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Virgin Islands (British) (UDP),vg1-ovpn-udp.pointtoserver.com,udp,53
-Virginia (TCP),vlbr-usvc-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Virginia (UDP),vlbr-usvc-ovpn-udp.pointtoserver.com,udp,53
+Virginia (TCP),usva2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+Virginia (UDP),usva2-ovpn-udp.pointtoserver.com,udp,53
 Washington Seattle (TCP),ussa1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Washington Seattle (UDP),ussa1-ovpn-udp.pointtoserver.com,udp,53
 Yemen (TCP),ym1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
