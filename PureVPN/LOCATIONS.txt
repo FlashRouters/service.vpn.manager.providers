@@ -76,8 +76,8 @@ Cuba (TCP),cu1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Cuba (UDP),cu1-ovpn-udp.pointtoserver.com,udp,53
 Cyprus (TCP),cy1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Cyprus (UDP),cy1-ovpn-udp.pointtoserver.com,udp,53
-DC Washington (TCP),uswdc1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-DC Washington (UDP),uswdc1-ovpn-udp.pointtoserver.com,udp,53
+DC Washington (TCP),uswdc2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+DC Washington (UDP),uswdc2-ovpn-udp.pointtoserver.com,udp,53
 Denmark (TCP),dk1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Denmark (UDP),dk1-ovpn-udp.pointtoserver.com,udp,53
 Dominica (TCP),vleu-dm1-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
