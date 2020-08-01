@@ -8,7 +8,7 @@ persist-tun
 ca #CERT
 cert #USERCERT
 key #USERKEY
-tls-auth #TLSKEY 1
+tls-auth #TLSKEY
 auth-user-pass #PASS
 #REMOVE2explicit-exit-notify
 key-direction 1
