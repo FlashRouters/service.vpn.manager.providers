@@ -11,6 +11,7 @@
                 "CyberGhost",
                 "ExpressVPN",
                 "HMA",
+                "HotspotShield",
                 "IPVanish",
                 "IVPN",
                 "NordVPN",
@@ -97,6 +98,10 @@
         {
             "provider": "HideMe",
             "link": "https://flashrouters.com/hideme"
+        },
+        {
+            "provider": "HostspotShield",
+            "link": "https://flashrouters.com/hotspotshield"
         },
         {
             "provider": "PIA",
