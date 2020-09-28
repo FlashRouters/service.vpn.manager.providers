@@ -64,10 +64,10 @@ United Kingdom (UDP),uk1.vyprvpn.com,udp,443
 Uruguay (UDP),uy1.vyprvpn.com,udp,443
 USA - Austin (UDP),us3.vyprvpn.com,udp,443
 USA - Chicago (UDP),us6.vyprvpn.com,udp,443
-USA - Los Angeles (UDP),us1.vyprvpn.com,udp,443
-USA - Miami (UDP),us4.vyprvpn.com,udp,443
+USA - Los Angeles (UDP),us1.vpn.goldenfrog.com,udp,443
+USA - Miami (UDP),us4.vpn.goldenfrog.com,udp,443
 USA - New York (UDP),us5.vyprvpn.com,udp,443
 USA - San Francisco (UDP),us7.vyprvpn.com,udp,443
 USA - Seattle (UDP),us8.vyprvpn.com,udp,443
-USA - Washington DC (UDP),us2.vyprvpn.com,udp,443
+USA - Washington DC (UDP),us2.vpn.goldenfrog.com,udp,443
 Vietnam (UDP),vn1.vyprvpn.com,udp,443
