@@ -6,7 +6,7 @@ resolv-retry infinite
 nobind
 cipher AES-256-CBC
 auth SHA512
-compress
+comp-lzo no
 verb 3
 tun-mtu 1500
 tun-mtu-extra 32
