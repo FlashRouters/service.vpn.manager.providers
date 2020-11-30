@@ -31,6 +31,7 @@ GL - Greenland,greenland.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.cr
 HU - Hungary,hungary.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 IE - Ireland,ireland.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 IL - Israel,israel.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+IM - Isle of Man,man.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 IN - India,in.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 IR - Iran,iran.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 IS - Iceland,is.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
@@ -63,7 +64,6 @@ SA - Saudi Arabia,saudiarabia.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.40
 SE - Sweden,sweden.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 SG - Singapore,sg.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 TR - Turkey,tr.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
-TT - Test,man.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 TW - Taiwan,taiwan.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 UA - Ukraine,ua.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US - United States,-seattle.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
