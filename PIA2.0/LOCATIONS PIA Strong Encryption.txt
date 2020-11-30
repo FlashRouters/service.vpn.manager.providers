@@ -1,9 +1,9 @@
-za.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+ZA - South Africa,za.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 yerevan.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 vietnam.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 venezuela.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 us3.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
-us-washingtondc.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US - United States,us-washingtondc.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 us-texas.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 us-siliconvalley.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 us-seattle.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
