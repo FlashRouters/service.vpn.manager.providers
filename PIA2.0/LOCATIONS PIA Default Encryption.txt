@@ -1,84 +1,84 @@
-za.privacy.network,udp,1198,#REMOVE=1
-yerevan.privacy.network,udp,1198,#REMOVE=1
-vietnam.privacy.network,udp,1198,#REMOVE=1
-venezuela.privacy.network,udp,1198,#REMOVE=1
-us3.privacy.network,udp,1198,#REMOVE=1
-us-washingtondc.privacy.network,udp,1198,#REMOVE=1
-us-texas.privacy.network,udp,1198,#REMOVE=1
-us-siliconvalley.privacy.network,udp,1198,#REMOVE=1
-us-seattle.privacy.network,udp,1198,#REMOVE=1
-us-newyorkcity.privacy.network,udp,1198,#REMOVE=1
-us-newjersey.privacy.network,udp,1198,#REMOVE=1
-us-houston.privacy.network,udp,1198,#REMOVE=1
-us-florida.privacy.network,udp,1198,#REMOVE=1
-us-denver.privacy.network,udp,1198,#REMOVE=1
-us-chicago.privacy.network,udp,1198,#REMOVE=1
-us-california.privacy.network,udp,1198,#REMOVE=1
-us-atlanta.privacy.network,udp,1198,#REMOVE=1
-uk-manchester.privacy.network,udp,1198,#REMOVE=1
-uk-london.privacy.network,udp,1198,#REMOVE=1
-ua.privacy.network,udp,1198,#REMOVE=1
-tr.privacy.network,udp,1198,#REMOVE=1
-taiwan.privacy.network,udp,1198,#REMOVE=1
-swiss.privacy.network,udp,1198,#REMOVE=1
-sweden.privacy.network,udp,1198,#REMOVE=1
-srilanka.privacy.network,udp,1198,#REMOVE=1
-spain.privacy.network,udp,1198,#REMOVE=1
-sofia.privacy.network,udp,1198,#REMOVE=1
-sg.privacy.network,udp,1198,#REMOVE=1
-saudiarabia.privacy.network,udp,1198,#REMOVE=1
-rs.privacy.network,udp,1198,#REMOVE=1
-ro.privacy.network,udp,1198,#REMOVE=1
-qatar.privacy.network,udp,1198,#REMOVE=1
-poland.privacy.network,udp,1198,#REMOVE=1
-philippines.privacy.network,udp,1198,#REMOVE=1
-panama.privacy.network,udp,1198,#REMOVE=1
-nz.privacy.network,udp,1198,#REMOVE=1
-no.privacy.network,udp,1198,#REMOVE=1
-nl-amsterdam.privacy.network,udp,1198,#REMOVE=1
-nigeria.privacy.network,udp,1198,#REMOVE=1
-morocco.privacy.network,udp,1198,#REMOVE=1
-montenegro.privacy.network,udp,1198,#REMOVE=1
-mongolia.privacy.network,udp,1198,#REMOVE=1
-monaco.privacy.network,udp,1198,#REMOVE=1
-mexico.privacy.network,udp,1198,#REMOVE=1
-md.privacy.network,udp,1198,#REMOVE=1
-man.privacy.network,udp,1198,#REMOVE=1
-malta.privacy.network,udp,1198,#REMOVE=1
-macau.privacy.network,udp,1198,#REMOVE=1
-lu.privacy.network,udp,1198,#REMOVE=1
-liechtenstein.privacy.network,udp,1198,#REMOVE=1
-kazakhstan.privacy.network,udp,1198,#REMOVE=1
-japan.privacy.network,udp,1198,#REMOVE=1
-italy.privacy.network,udp,1198,#REMOVE=1
-israel.privacy.network,udp,1198,#REMOVE=1
-is.privacy.network,udp,1198,#REMOVE=1
-ireland.privacy.network,udp,1198,#REMOVE=1
-iran.privacy.network,udp,1198,#REMOVE=1
-in.privacy.network,udp,1198,#REMOVE=1
-hungary.privacy.network,udp,1198,#REMOVE=1
-greenland.privacy.network,udp,1198,#REMOVE=1
-georgia.privacy.network,udp,1198,#REMOVE=1
-france.privacy.network,udp,1198,#REMOVE=1
-fi.privacy.network,udp,1198,#REMOVE=1
-egypt.privacy.network,udp,1198,#REMOVE=1
-dz.privacy.network,udp,1198,#REMOVE=1
-denmark.privacy.network,udp,1198,#REMOVE=1
-de-frankfurt.privacy.network,udp,1198,#REMOVE=1
-de-berlin.privacy.network,udp,1198,#REMOVE=1
-czech.privacy.network,udp,1198,#REMOVE=1
-cyprus.privacy.network,udp,1198,#REMOVE=1
-china.privacy.network,udp,1198,#REMOVE=1
-cambodia.privacy.network,udp,1198,#REMOVE=1
-ca-toronto.privacy.network,udp,1198,#REMOVE=1
-ca-montreal.privacy.network,udp,1198,#REMOVE=1
-brussels.privacy.network,udp,1198,#REMOVE=1
-bangladesh.privacy.network,udp,1198,#REMOVE=1
-bahamas.privacy.network,udp,1198,#REMOVE=1
-austria.privacy.network,udp,1198,#REMOVE=1
-aus-perth.privacy.network,udp,1198,#REMOVE=1
-aus-melbourne.privacy.network,udp,1198,#REMOVE=1
-au-sydney.privacy.network,udp,1198,#REMOVE=1
-ar.privacy.network,udp,1198,#REMOVE=1
-ae.privacy.network,udp,1198,#REMOVE=1
-ad.privacy.network,udp,1198,#REMOVE=1
+za.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+yerevan.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+vietnam.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+venezuela.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us3.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-washingtondc.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-texas.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-siliconvalley.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-seattle.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-newyorkcity.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-newjersey.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-houston.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-florida.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-denver.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-chicago.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-california.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+us-atlanta.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+uk-manchester.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+uk-london.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ua.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+tr.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+taiwan.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+swiss.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+sweden.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+srilanka.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+spain.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+sofia.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+sg.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+saudiarabia.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+rs.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ro.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+qatar.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+poland.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+philippines.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+panama.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+nz.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+no.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+nl-amsterdam.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+nigeria.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+morocco.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+montenegro.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+mongolia.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+monaco.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+mexico.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+md.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+man.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+malta.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+macau.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+lu.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+liechtenstein.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+kazakhstan.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+japan.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+italy.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+israel.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+is.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ireland.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+iran.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+in.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+hungary.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+greenland.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+georgia.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+france.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+fi.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+egypt.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+dz.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+denmark.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+de-frankfurt.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+de-berlin.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+czech.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+cyprus.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+china.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+cambodia.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ca-toronto.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ca-montreal.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+brussels.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+bangladesh.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+bahamas.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+austria.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+aus-perth.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+aus-melbourne.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+au-sydney.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ar.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ae.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+ad.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
