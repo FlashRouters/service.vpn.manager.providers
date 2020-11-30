@@ -1,6 +1,8 @@
-1515061151
+1606773452
 400 6
 TEMPLATE.txt
+LOCATIONS PIA Default Encryption.txt
+LOCATIONS PIA Strong Encryption.txt
 ca.rsa.2048.crt
 ca.rsa.4096.crt
 crl.rsa.2048.pem
