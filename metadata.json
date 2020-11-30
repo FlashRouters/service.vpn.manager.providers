@@ -16,7 +16,6 @@
                 "IVPN",
                 "NordVPN",
                 "PIA",
-                "PIA2.0",
                 "ProtonVPN",
                 "PureVPN",
                 "SaferVPN",
@@ -40,7 +39,7 @@
         },
         {
             "name": "access",
-            "value": ["PIA2.0"]
+            "value": ["PIA"]
         },
         {
             "name": "proton",
