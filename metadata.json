@@ -66,8 +66,8 @@
             "value": ["Surfshark"]
         },
         {
-            "name": "goldenfrog",
-            "value": ["VyprVPN"]
+            "name": "namecheap",
+            "value": ["NamecheapVPN"]
         }
     ],
     "affiliate_links": [
@@ -210,6 +210,10 @@
         {
             "provider": "Surfshark",
             "link": "https://flashrouters.com/surfshark"
+        },
+        {
+            "provider": "NamecheapVPN",
+            "link": "https://flashrouters.com/namecheap"
         },
         {
             "provider": "CyberGhost",
