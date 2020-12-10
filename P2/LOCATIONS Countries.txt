@@ -41,8 +41,8 @@ SK - Slovakia (UDP),sk.protonvpn.com,udp,80
 TR - Turkey (UDP),tr.protonvpn.com,udp,80
 TW - Taiwan (UDP),tw.protonvpn.com,udp,80
 UA - Ukraine (UDP),ua.protonvpn.com,udp,80
-GB - United Kingdom(UDP),uk.protonvpn.com,udp,80
-US - United States(UDP),us.protonvpn.com,udp,80
+GB - United Kingdom (UDP),uk.protonvpn.com,udp,80
+US - United States (UDP),us.protonvpn.com,udp,80
 ZA - South Africa (UDP),za.protonvpn.com,udp,80
 AE - UAE (TCP),ae.protonvpn.com,,tcp,8443
 AT - Austria (TCP),at.protonvpn.com,,tcp,8443
@@ -87,6 +87,6 @@ SK - Slovakia (TCP),sk.protonvpn.com,,tcp,8443
 TR - Turkey (TCP),tr.protonvpn.com,,tcp,8443
 TW - Taiwan (TCP),tw.protonvpn.com,,tcp,8443
 UA - Ukraine (TCP),ua.protonvpn.com,,tcp,8443
-GB - United Kingdom(TCP),uk.protonvpn.com,,tcp,8443
-US - United States(TCP),us.protonvpn.com,,tcp,8443
+GB - United Kingdom (TCP),uk.protonvpn.com,,tcp,8443
+US - United States (TCP),us.protonvpn.com,,tcp,8443
 ZA - South Africa (TCP),za.protonvpn.com,,tcp,8443
