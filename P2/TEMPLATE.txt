@@ -4,7 +4,6 @@ proto #PROTO
 remote #SERVER #PORT
 resolv-retry infinite
 nobind
-cipher AES-256-GCM
 data-cipher AES-256-CBC
 auth SHA512
 comp-lzo no
