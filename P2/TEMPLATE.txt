@@ -2,7 +2,7 @@ client
 dev tun
 proto #PROTO
 remote #SERVER #PORT
-cipher AES-256-CBC
+cipher TLS_AES_256_GCM_SHA384
 auth SHA512
 comp-lzo no
 tls-client
