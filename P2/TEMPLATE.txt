@@ -3,6 +3,7 @@ dev tun
 proto #PROTO
 remote #SERVER #PORT
 auth SHA512
+data-ciphers-fallback AES-256-CBC
 comp-lzo no
 tls-client
 remote-cert-tls server
