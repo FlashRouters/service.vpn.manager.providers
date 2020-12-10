@@ -87,6 +87,6 @@ SK - Slovakia (TCP),sk.protonvpn.com,tcp,8443
 TR - Turkey (TCP),tr.protonvpn.com,tcp,8443
 TW - Taiwan (TCP),tw.protonvpn.com,tcp,8443
 UA - Ukraine (TCP),ua.protonvpn.com,tcp,8443
-GB - United Kingdom(TCP),uk.protonvpn.com,tcp,8443
+GB - United Kingdom (TCP),uk.protonvpn.com,tcp,8443
 US - United States(TCP),us.protonvpn.com,tcp,8443
 ZA - South Africa (TCP),za.protonvpn.com,tcp,8443
