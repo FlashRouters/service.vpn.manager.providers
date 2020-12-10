@@ -1,0 +1,92 @@
+AE - UAE (UDP),ae.protonvpn.com,udp,80
+AT - Austria (UDP),at.protonvpn.com,udp,80
+AU - Australia (UDP),au.protonvpn.com,udp,80
+BE - Belgium (UDP),be.protonvpn.com,udp,80
+BG - Bulgaria (UDP),bg.protonvpn.com,udp,80
+BR - Brazil (UDP),br.protonvpn.com,udp,80
+CA - Canada (UDP),ca.protonvpn.com,udp,80
+CH - Switzerland (UDP),ch.protonvpn.com,udp,80
+CR - Costa Rica (UDP),cr.protonvpn.com,udp,80
+CZ - Czech Republic (UDP),cz.protonvpn.com,udp,80
+DE - Germany (UDP),de.protonvpn.com,udp,80
+DK - Denmark (UDP),dk.protonvpn.com,udp,80
+EE - Estonia (UDP),ee.protonvpn.com,udp,80
+ES - Spain (UDP),es.protonvpn.com,udp,80
+FI - Finland (UDP),fi.protonvpn.com,udp,80
+FR - France (UDP),fr.protonvpn.com,udp,80
+GR - Greec (UDP),gr.protonvpn.com,udp,80
+HK - Hong Kong (UDP),hk.protonvpn.com,udp,80
+IE - Ireland (UDP),ie.protonvpn.com,udp,80
+IL - Israel (UDP),il.protonvpn.com,udp,80
+IN - India (UDP),in.protonvpn.com,udp,80
+IS - Iceland (UDP),is.protonvpn.com,udp,80
+IT - Italy (UDP),it.protonvpn.com,udp,80
+JP - Japan (UDP),jp.protonvpn.com,udp,80
+KR - Korea (UDP),kr.protonvpn.com,udp,80
+LT - Lithuania (UDP),lt.protonvpn.com,udp,80
+LU - Luxembourg (UDP),lu.protonvpn.com,udp,80
+LV - Latvia (UDP),lv.protonvpn.com,udp,80
+MD - Moldova (UDP),md.protonvpn.com,udp,80
+NL - Netherlands (UDP),nl.protonvpn.com,udp,80
+NO - Norway (UDP),no.protonvpn.com,udp,80
+NZ - New Zealand (UDP),nz.protonvpn.com,udp,80
+PL - Poland (UDP),pl.protonvpn.com,udp,80
+PT - Portugal (UDP),pt.protonvpn.com,udp,80
+RO - Romania (UDP),ro.protonvpn.com,udp,80
+RS - Serbia (UDP),rs.protonvpn.com,udp,80
+RU - Russia (UDP),ru.protonvpn.com,udp,80
+SE - Sweden (UDP),se.protonvpn.com,udp,80
+SG - Singapore (UDP),sg.protonvpn.com,udp,80
+SK - Slovakia (UDP),sk.protonvpn.com,udp,80
+TR - Turkey (UDP),tr.protonvpn.com,udp,80
+TW - Taiwan (UDP),tw.protonvpn.com,udp,80
+UA - Ukraine (UDP),ua.protonvpn.com,udp,80
+GB - United Kingdom (UDP),uk.protonvpn.com,udp,80
+US - United States (UDP),us.protonvpn.com,udp,80
+ZA - South Africa (UDP),za.protonvpn.com,udp,80
+AE - UAE (TCP),ae-02.protonvpn.com,tcp,8443
+AT - Austria (TCP),at.protonvpn.com,tcp,8443
+AU - Australia (TCP),au.protonvpn.com,tcp,8443
+BE - Belgium (TCP),be.protonvpn.com,tcp,8443
+BG - Bulgaria (TCP),bg.protonvpn.com,tcp,8443
+BR - Brazil (TCP),br.protonvpn.com,tcp,8443
+CA - Canada (TCP),ca.protonvpn.com,tcp,8443
+CH - Switzerland (TCP),ch.protonvpn.com,tcp,8443
+CR - Costa Rica (TCP),cr.protonvpn.com,tcp,8443
+CZ - Czech Republic (TCP),cz.protonvpn.com,tcp,8443
+DE - Germany (TCP),de.protonvpn.com,tcp,8443
+DK - Denmark (TCP),dk.protonvpn.com,tcp,8443
+EE - Estonia (TCP),ee.protonvpn.com,tcp,8443
+ES - Spain (TCP),es.protonvpn.com,tcp,8443
+FI - Finland (TCP),fi.protonvpn.com,tcp,8443
+FR - France (TCP),fr.protonvpn.com,tcp,8443
+GR - Greec (TCP),gr.protonvpn.com,tcp,8443
+HK - Hong Kong (TCP),hk.protonvpn.com,tcp,8443
+IE - Ireland (TCP),ie.protonvpn.com,tcp,8443
+IL - Israel (TCP),il.protonvpn.com,tcp,8443
+IN - India (TCP),in.protonvpn.com,tcp,8443
+IS - Iceland (TCP),is.protonvpn.com,tcp,8443
+IT - Italy (TCP),it.protonvpn.com,tcp,8443
+JP - Japan (TCP),jp.protonvpn.com,tcp,8443
+KR - Korea (TCP),kr.protonvpn.com,tcp,8443
+LT - Lithuania (TCP),lt.protonvpn.com,tcp,8443
+LU - Luxembourg (TCP),lu.protonvpn.com,tcp,8443
+LV - Latvia (TCP),lv.protonvpn.com,tcp,8443
+MD - Moldova (TCP),md.protonvpn.com,tcp,8443
+NL - Netherlands (TCP),nl.protonvpn.com,tcp,8443
+NO - Norway (TCP),no.protonvpn.com,tcp,8443
+NZ - New Zealand (TCP),nz.protonvpn.com,tcp,8443
+PL - Poland (TCP),pl.protonvpn.com,tcp,8443
+PT - Portugal (TCP),pt.protonvpn.com,tcp,8443
+RO - Romania (TCP),ro.protonvpn.com,tcp,8443
+RS - Serbia (TCP),rs.protonvpn.com,tcp,8443
+RU - Russia (TCP),ru.protonvpn.com,tcp,8443
+SE - Sweden (TCP),se.protonvpn.com,tcp,8443
+SG - Singapore (TCP),sg.protonvpn.com,tcp,8443
+SK - Slovakia (TCP),sk.protonvpn.com,tcp,8443
+TR - Turkey (TCP),tr.protonvpn.com,tcp,8443
+TW - Taiwan (TCP),tw.protonvpn.com,tcp,8443
+UA - Ukraine (TCP),ua.protonvpn.com,tcp,8443
+GB - United Kingdom (TCP),uk.protonvpn.com,tcp,8443
+US - United States (TCP),us.protonvpn.com,tcp,8443
+ZA - South Africa (TCP),za.protonvpn.com,tcp,8443
