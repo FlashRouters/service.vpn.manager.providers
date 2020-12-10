@@ -44,7 +44,7 @@ UA - Ukraine (UDP),ua.protonvpn.com,udp,80
 GB - United Kingdom (UDP),uk.protonvpn.com,udp,80
 US - United States (UDP),us.protonvpn.com,udp,80
 ZA - South Africa (UDP),za.protonvpn.com,udp,80
-AE - UAE (TCP),ae.protonvpn.com,tcp,8443
+AE - UAE (TCP),ae-02.protonvpn.com,tcp,8443
 AT - Austria (TCP),at.protonvpn.com,tcp,8443
 AU - Australia (TCP),au.protonvpn.com,tcp,8443
 BE - Belgium (TCP),be.protonvpn.com,tcp,8443
