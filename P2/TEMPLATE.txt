@@ -1,0 +1,23 @@
+client
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+resolv-retry infinite
+nobind
+cipher AES-256-CBC
+auth SHA512
+comp-lzo no
+verb 3
+setenv CLIENT_CERT 0
+tun-mtu 1500
+tun-mtu-extra 32
+mssfix 1450
+persist-key
+persist-tun
+reneg-sec 0
+remote-cert-tls server
+auth-user-pass #PASS
+pull
+fast-io
+ca #CERT
+tls-auth #TLSKEY
