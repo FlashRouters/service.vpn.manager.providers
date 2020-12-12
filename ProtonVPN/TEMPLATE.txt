@@ -19,5 +19,4 @@ auth-user-pass #PASS
 pull
 fast-io
 ca #CERT
-key-direction 1
-tls-auth #TLSKEY
+tls-auth #TLSKEY 1
