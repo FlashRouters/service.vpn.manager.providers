@@ -1,0 +1,26 @@
+dev tun
+proto #PROTO
+remote #SERVER #PORT
+resolv-retry infinite
+remote-random
+nobind
+tun-mtu 1500
+tun-mtu-extra 32
+mssfix 1450
+persist-key
+persist-tun
+ping 15
+ping-restart 0
+ping-timer-rem
+reneg-sec 0
+remote-cert-tls server
+auth-user-pass #pass
+#REMOVE1explicit-exit-notify
+verb 3
+pull
+fast-io
+cipher AES-256-CBC
+auth SHA512
+key-direction 1
+ca #CERT
+tls-auth #TLSKEY
