@@ -22,5 +22,6 @@ fast-io
 cipher AES-256-CBC
 auth SHA512
 key-direction 1
+tls-client
 ca #CERT
 tls-auth #TLSKEY
