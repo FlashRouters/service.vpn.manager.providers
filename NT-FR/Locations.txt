@@ -1,0 +1,2 @@
+US 3406 (UDP),ntus3406.nordvpnteams.com,udp,1194
+US 3406 (UDP),ntus3406.nordvpnteams.com,tcp,8443
