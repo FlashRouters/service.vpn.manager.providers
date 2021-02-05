@@ -66,7 +66,7 @@ SG - Singapore,sg.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLV
 TR - Turkey,tr.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 TW - Taiwan,taiwan.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 UA - Ukraine,ua.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
-US - Seattle,-seattle.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+US - Seattle,us-seattle.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US - Atlanta,us-atlanta.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US - California,us-california.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 US - Chicago,us-chicago.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
