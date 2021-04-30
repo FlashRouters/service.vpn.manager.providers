@@ -12,6 +12,7 @@ BG - Bulgaria,sofia.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CR
 BS - Bahamas,bahamas.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 CA - Montreal,ca-montreal.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 CA - Toronto,ca-toronto.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
+CA - Vancouver,ca-vancouver.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 CH - Switzerland,swiss.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 CN - China,china.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
 CY - Cyprus,cyprus.privacy.network,udp,1197,#REMOVE=2 #CERT=ca.rsa.4096.crt #CRLVERIFY=crl.rsa.4096.pem
