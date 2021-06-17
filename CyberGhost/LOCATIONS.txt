@@ -69,6 +69,7 @@ NO - Norway (UDP),87-1-no.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT
 NZ - New Zealand (UDP),95-1-nz.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 PA - Panama (UDP),87-1-pa.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 PK - Pakistan (UDP),87-1-pk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+PH - Philippines (UDP),95-1-ph.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 PL - Poland (UDP),87-1-pl.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 PT - Portugal (UDP),87-1-pt.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 QA - Qatar (UDP),87-1-qa.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
