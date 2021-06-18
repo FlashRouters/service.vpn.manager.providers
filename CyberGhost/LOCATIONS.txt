@@ -84,7 +84,7 @@ SK - Slovakia (UDP),87-1-sk.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEX
 TH - Thailand (UDP),95-1-th.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 TW - Taiwan (UDP),95-1-tw.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 UA - Ukraine (UDP),87-1-ua.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
-US - United States (UDP),93-1-us.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
+US - United States (UDP),94-19-us.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 VE - Venezuela (UDP),87-1-ve.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 VN - Vietnam (UDP),95-1-vn.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
 ZA - South Africa (UDP),87-1-za.cg-dialup.net,udp,443,#REMOVE=1 #PINGSPEED=5 #PINGEXIT=60
