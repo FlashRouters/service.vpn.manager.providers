@@ -38,8 +38,8 @@ Malaysia (TCP),my2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Malaysia (UDP),my2-ovpn-udp.pointtoserver.com,udp,53
 Mexico (TCP),vlus-mx2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Mexico (UDP),vlus-mx2-ovpn-udp.pointtoserver.com,udp,53
-Netherlands (TCP),nl2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Netherlands (UDP),nl2-ovpn-udp.pointtoserver.com,udp,53
+Netherlands (TCP),nl2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Netherlands (UDP),nl2-auto-udp.ptoserver.com,udp,53
 Norway (TCP),vleu-no2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Norway (UDP),vleu-no2-ovpn-udp.pointtoserver.com,udp,53
 Panama (TCP),vlus-pa2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
