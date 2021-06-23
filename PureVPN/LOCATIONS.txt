@@ -1,104 +1,106 @@
-Australia Melbourne (TCP),au2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Australia Melbourne (UDP),au2-ovpn-udp.pointtoserver.com,udp,53
-Australia Perth (TCP),au2-pe-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Australia Perth (UDP),au2-pe-ovpn-udp.pointtoserver.com,udp,53
-Australia Sydney (TCP),au-sd2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Australia Sydney (UDP),au-sd2-ovpn-udp.pointtoserver.com,udp,53
+Australia Brisbane (TCP),aubn2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Australia Brisbane (UDP),aubn2-udp.ptoserver.com,udp,53
+Australia Melbourne (TCP),aume2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Australia Melbourne (UDP),aume2-auto-udp.ptoserver.com,udp,53
+Australia Perth (TCP),aupe2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Australia Perth (UDP),aupe2-auto-udp.ptoserver.com,udp,53
+Australia Sydney (TCP),ausd2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Australia Sydney (UDP),ausd2-udp.ptoserver.com,udp,53
 Austria (TCP),at2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Austria (UDP),at2-ovpn-udp.pointtoserver.com,udp,53
 Belgium (TCP),vleu-be2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Belgium (UDP),vleu-be2-ovpn-udp.pointtoserver.com,udp,53
-Brazil (TCP),br2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Brazil (UDP),br2-ovpn-udp.pointtoserver.com,udp,53
-Canada (TCP),ca2-ovpn-udp.pointtoserver.com,tcp,80,#REMOVE=2
-Canada (UDP),ca2-ovpn-udp.pointtoserver.com,udp,53
+Brazil (TCP),br2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Brazil (UDP),br2-udp.ptoserver.com,udp,53
+Canada (TCP),ca2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Canada (UDP),caq2-udp.ptoserver.com,udp,53
+Canada Quebec (TCP),caq2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Canada Quebec (UDP),caq2-auto-udp.ptoserver.com,udp,53
+Canada Toronto (TCP),cato2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Canada Toronto (UDP),cato2-auto-udp.ptoserver.com,udp,53
 Canada Vancouver (TCP),cav2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
 Canada Vancouver (UDP),cav2-ovpn-udp.pointtoserver.com,udp,53
-Czech Republic (TCP),cz2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Czech Republic (UDP),cz2-ovpn-udp.pointtoserver.com,udp,53
-Denmark (TCP),dk2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Denmark (UDP),dk2-ovpn.pointtoserver.com,udp,53
-France (TCP),fr2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-France (UDP),fr2-ovpn-udp.pointtoserver.com,udp,53
-Germany (TCP),de2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Germany (UDP),de2-ovpn-udp.pointtoserver.com,udp,53
-Greece (TCP),gr2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Greece (UDP),gr2-ovpn.pointtoserver.com,udp,53
-Hong Kong (TCP),hk2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Hong Kong (UDP),hk2-ovpn-udp.pointtoserver.com,udp,53
-India (TCP),in2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-India (UDP),in2-ovpn-udp.pointtoserver.com,udp,53
-Italy (TCP),it2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Italy (UDP),it2-ovpn-udp.pointtoserver.com,udp,53
-Japan (TCP),jp2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Japan (UDP),jp2-ovpn.pointtoserver.com,udp,53
-Korea (TCP),kr2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Korea (UDP),kr2-ovpn.pointtoserver.com,udp,53
-Malaysia (TCP),my2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Malaysia (UDP),my2-ovpn-udp.pointtoserver.com,udp,53
-Mexico (TCP),vlus-mx2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Mexico (UDP),vlus-mx2-ovpn-udp.pointtoserver.com,udp,53
+Czech Republic (TCP),cz2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Czech Republic (UDP),cz2-udp.ptoserver.com,udp,53
+Denmark (TCP),dk2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
+Denmark (UDP),dk2-auto-udp.ptoserver.com,udp,53
+France (TCP),fr2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+France (UDP),fr2-udp.ptoserver.com,udp,53
+Germany (TCP),de2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Germany (UDP),de-obf-ovpn.pointtoserver.com,udp,53
+Greece (TCP),gr2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Greece (UDP),gr2-udp.ptoserver.com,udp,53
+India (TCP),in2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+India (UDP),in2-auto-udp.ptoserver.com,udp,53
+Italy (TCP),it2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Italy (UDP),it2-udp.ptoserver.com,udp,53
+Japan (TCP),jp2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Japan (UDP),jp2-auto-udp.ptoserver.com,udp,53
+Korea (TCP),kr2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Korea (UDP),kr2-auto-udp.ptoserver.com,udp,53
+Malaysia (TCP),my2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Malaysia (UDP),my2-auto-udp.ptoserver.com,udp,53
+Mexico (TCP),mx2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Mexico (UDP),mx2-auto-udp.ptoserver.com,udp,53
 Netherlands (TCP),nl2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
 Netherlands (UDP),nl2-auto-udp.ptoserver.com,udp,53
-Norway (TCP),vleu-no2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Norway (UDP),vleu-no2-ovpn-udp.pointtoserver.com,udp,53
-Panama (TCP),vlus-pa2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Panama (UDP),vlus-pa2-ovpn-udp.pointtoserver.com,udp,53
-Philippines (TCP),vlap-ph2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Philippines (UDP),vlap-ph2-ovpn-udp.pointtoserver.com,udp,53
-Poland (TCP),pl2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Poland (UDP),pl2-ovpn.pointtoserver.com,udp,53
-Portugal (TCP),Pt2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Portugal (UDP),Pt2-ovpn.pointtoserver.com,udp,53
-Russia (TCP),ru2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Russia (UDP),ru2-ovpn-udp.pointtoserver.com,udp,53
-Singapore (TCP),sg2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Singapore (UDP),sg2-ovpn-udp.pointtoserver.com,udp,53
-South Africa (TCP),za2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-South Africa (UDP),za2-ovpn.pointtoserver.com,udp,53
-Spain (TCP),es2-ovpn.pointtoserver.com,tcp,80,#REMOVE=2
-Spain (UDP),es2-ovpn.pointtoserver.com,udp,53
-Sweden (TCP),se2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Sweden (UDP),se2-ovpn-udp.pointtoserver.com,udp,53
-Switzerland (TCP),ch2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Switzerland (UDP),ch2-ovpn-udp.pointtoserver.com,udp,53
-Taiwan (TCP),tw2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Taiwan (UDP),tw2-ovpn-udp.pointtoserver.com,udp,53
-Thailand (TCP),vlap-th2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Thailand (UDP),vlap-th2-ovpn-udp.pointtoserver.com,udp,53
-UK Gosport (TCP),ukg2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-UK Gosport (UDP),ukg2-ovpn-udp.pointtoserver.com,udp,53
-UK London (TCP),ukl2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-UK London (UDP),ukl2-ovpn-udp.pointtoserver.com,udp,53
-UK Manchester (TCP),ukm2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-UK Manchester (UDP),ukm2-ovpn-udp.pointtoserver.com,udp,53
-USA (TCP),us2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA (UDP),us2-ovpn-udp.pointtoserver.com,udp,53
-USA Atlanta (TCP),usga2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Atlanta (UDP),usga2-ovpn-udp.pointtoserver.com,udp,53
-USA Chicago (TCP),usil2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Chicago (UDP),usil2-ovpn-udp.pointtoserver.com,udp,53
-USA Houston (TCP),ustx2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Houston (UDP),ustx2-ovpn-udp.pointtoserver.com,udp,53
-USA Los Angeles (TCP),usla2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Los Angeles (UDP),usla2-ovpn-udp.pointtoserver.com,udp,53
-USA Miami (TCP),usfl2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Miami (UDP),usfl2-ovpn-udp.pointtoserver.com,udp,53
-USA New Jersey (TCP),usnj2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA New Jersey (UDP),usnj2-ovpn-udp.pointtoserver.com,udp,53
-USA New York (TCP),usny2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA New York (UDP),usny2-ovpn-udp.pointtoserver.com,udp,53
-USA Phoenix (TCP),usphx2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Phoenix (UDP),usphx2-ovpn-udp.pointtoserver.com,udp,53
-USA Salt Lake City (TCP),usut2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Salt Lake City (UDP),usut2-ovpn-udp.pointtoserver.com,udp,53
-USA San Francisco (TCP),ussf2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA San Francisco (UDP),ussf2-ovpn-udp.pointtoserver.com,udp,53
-USA Seattle (TCP),ussa2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Seattle (UDP),ussa2-ovpn-udp.pointtoserver.com,udp,53
-USA Virginia (TCP),usva2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Virginia (UDP),usva2-ovpn-udp.pointtoserver.com,udp,53
-USA Washington DC (TCP),uswdc2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-USA Washington DC (UDP),uswdc2-ovpn-udp.pointtoserver.com,udp,53
-Vietnam (TCP),vlap-vn2-ovpn-tcp.pointtoserver.com,tcp,80,#REMOVE=2
-Vietnam (UDP),vlap-vn2-ovpn-udp.pointtoserver.com,udp,53
+Norway (TCP),no2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Norway (UDP),no2-auto-udp.ptoserver.com,udp,53
+Panama (TCP),pa2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Panama (UDP),pa2-auto-udp.ptoserver.com,udp,53
+Philippines (TCP),ph2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Philippines (UDP),ph2-auto-udp.ptoserver.com,udp,53
+Poland (TCP),pl2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Poland (UDP),pl2-auto-udp.ptoserver.com,udp,53
+Portugal (TCP),pt2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Portugal (UDP),pt2-udp.ptoserver.com,udp,53
+Russia (TCP),ru2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Russia (UDP),ru2-auto-udp.ptoserver.com,udp,53
+Singapore (TCP),sg2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Singapore (UDP),sg2-udp.ptoserver.com,udp,53
+South Africa (TCP),za2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+South Africa (UDP),za2-auto-udp.ptoserver.com,udp,53
+Spain (TCP),es2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Spain (UDP),es2-udp.ptoserver.com,udp,53
+Sweden (TCP),se2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Sweden (UDP),se2-auto-udp.ptoserver.com,udp,53
+Switzerland (TCP),ch2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Switzerland (UDP),ch2-auto-udp.ptoserver.com,udp,53
+Taiwan (TCP),tw2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Taiwan (UDP),tw2-auto-udp.ptoserver.com,udp,53
+Thailand (TCP),th2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Thailand (UDP),th2-auto-udp.ptoserver.comm,udp,53
+UK London (TCP),ukl2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+UK London (UDP),ukl2-auto-udp.ptoserver.com,udp,53
+UK Manchester (TCP),ukm2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+UK Manchester (UDP),ukm2-auto-udp.ptoserver.com,udp,53
+USA (TCP),us-global-tcp2.ptoserver.com,tcp,80,#REMOVE=2
+USA (UDP),us-global-udp2.ptoserver.com,udp,53
+USA Atlanta (TCP),usga2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Atlanta (UDP),usga2-udp.ptoserver.com,udp,53
+USA Chicago (TCP),usil2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Chicago (UDP),usil2-auto-udp.ptoserver.com,udp,53
+USA Houston (TCP),ustx2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Houston (UDP),ustx2-udp.ptoserver.com,udp,53
+USA Los Angeles (TCP),usca2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Los Angeles (UDP),usca2-udp.ptoserver.com,udp,53
+USA Miami (TCP),usfl2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Miami (UDP),usfl2-auto-udp.ptoserver.com,udp,53
+USA New Jersey (TCP),usnj2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA New Jersey (UDP),usnj2-auto-udp.ptoserver.com,udp,53
+USA New York (TCP),usny2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA New York (UDP),usny2-auto-udp.ptoserver.com,udp,53
+USA Phoenix (TCP),usphx2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Phoenix (UDP),usphx2-auto-udp.ptoserver.com,udp,53
+USA Salt Lake City (TCP),usut2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Salt Lake City (UDP),usut2-auto-udp.ptoserver.com,udp,53
+USA San Francisco (TCP),ussf2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA San Francisco (UDP),ussf2-auto-udp.ptoserver.com,udp,53
+USA Seattle (TCP),ussa2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Seattle (UDP),ussa2-auto-udp.ptoserver.com,udp,53
+USA Virginia (TCP),usva2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Virginia (UDP),usva2-udp.ptoserver.com,udp,53
+USA Washington DC (TCP),uswdc2-tcp.ptoserver.com,tcp,80,#REMOVE=2
+USA Washington DC (UDP),uswdc2-udp.ptoserver.com,udp,53
+Vietnam (TCP),vn2-auto-tcp.ptoserver.com,tcp,80,#REMOVE=2
+Vietnam (UDP),vn2-auto-udp.ptoserver.com,udp,53
