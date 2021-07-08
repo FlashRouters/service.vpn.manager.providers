@@ -6,19 +6,23 @@ Armenia (UDP),armenia-ca-version-2.expressnetw.com,udp,1195
 Australia - Brisbane (UDP),australia-brisbane-ca-version-2.expressnetw.com,udp,1195
 Australia - Melbourne (UDP),australia-melbourne-ca-version-2.expressnetw.com,udp,1195
 Australia - Perth (UDP),australia-perth-ca-version-2.expressnetw.com,udp,1195
-Australia - Sydney - 3 (UDP),australia-sydney-3-ca-version-2.expressnetw.com,udp,1195
 Australia - Sydney - 2 (UDP),australia-sydney-2-ca-version-2.expressnetw.com,udp,1195
 Australia - Sydney (UDP),australia-sydney-ca-version-2.expressnetw.com,udp,1195
 Austria (UDP),austria-ca-version-2.expressnetw.com,udp,1195
 Azerbaijan (UDP),azerbaijan-ca-version-2.expressnetw.com,udp,1195
+Bahamas (UDP),bahamas-ca-version-2.expressnetw.com,udp,1195
+Bangladesh (UDP),bangladesh-ca-version-2.expressnetw.com,udp,1195
 Belarus (UDP),belarus-ca-version-2.expressnetw.com,udp,1195
 Belgium (UDP),belgium-ca-version-2.expressnetw.com,udp,1195
+Bhutan (UDP),bhutan-ca-version-2.expressnetw.com,udp,1195
+Bolivia (UDP),bolivia-ca-version-2.expressnetw.com,udp,1195
 Bosnia And Herzegovina (UDP),bosniaandherzegovina-ca-version-2.expressnetw.com,udp,1195
 Brazil - 2 (UDP),brazil-2-ca-version-2.expressnetw.com,udp,1195
 Brazil (UDP),brazil-ca-version-2.expressnetw.com,udp,1195
+Brunei (UDP),brunei-ca-version-2.expressnetw.com,udp,1195
 Bulgaria (UDP),bulgaria-ca-version-2.expressnetw.com,udp,1195
 Cambodia (UDP),cambodia-ca-version-2.expressnetw.com,udp,1195
-Canada - Montreal - 2 (UDP),canada-montreal-ca-version-2.expressnetw.com,udp,1195
+Canada - Montreal (UDP),canada-montreal-ca-version-2.expressnetw.com,udp,1195
 Canada - Toronto - 2 (UDP),canada-toronto-2-ca-version-2.expressnetw.com,udp,1195
 Canada - Toronto (UDP),canada-toronto-ca-version-2.expressnetw.com,udp,1195
 Canada - Vancouver (UDP),canada-vancouver-ca-version-2.expressnetw.com,udp,1195
@@ -31,6 +35,7 @@ Czech Republic (UDP),czechrepublic-ca-version-2.expressnetw.com,udp,1195
 Denmark (UDP),denmark-ca-version-2.expressnetw.com,udp,1195
 Ecuador (UDP),ecuador-ca-version-2.expressnetw.com,udp,1195
 Estonia (UDP),estonia-ca-version-2.expressnetw.com,udp,1195
+Egypt (UDP),egypt-ca-version-2.expressnetw.com,udp,1195
 Finland (UDP),finland-ca-version-2.expressnetw.com,udp,1195
 France - Paris - 1 (UDP),france-paris-1-ca-version-2.expressnetw.com,udp,1195
 France - Paris - 2 (UDP),france-paris-2-ca-version-2.expressnetw.com,udp,1195
@@ -39,6 +44,7 @@ Georgia (UDP),georgia-ca-version-2.expressnetw.com,udp,1195
 Germany - Darmstadt (UDP),germany-darmstadt-ca-version-2.expressnetw.com,udp,1195
 Germany - Frankfurt - 1 (UDP),germany-frankfurt-1-ca-version-2.expressnetw.com,udp,1195
 Germany - Frankfurt - 2 (UDP),germany-frankfurt-2-ca-version-2.expressnetw.com,udp,1195
+Germany - Frankfurt - 3 (UDP),germany-darmstadt-ca-version-2.expressnetw.com,udp,1195
 Germany - Nuremberg (UDP),germany-nuremberg-ca-version-2.expressnetw.com,udp,1195
 Greece (UDP),greece-ca-version-2.expressnetw.com,udp,1195
 Guatemala (UDP),guatemala-ca-version-2.expressnetw.com,udp,1195
@@ -49,18 +55,20 @@ Hungary (UDP),hungary-ca-version-2.expressnetw.com,udp,1195
 Iceland (UDP),iceland-ca-version-2.expressnetw.com,udp,1195
 India - Chennai (UDP),india-chennai-ca-version-2.expressnetw.com,udp,1195
 India - Mumbai - 1 (UDP),india-mumbai-1-ca-version-2.expressnetw.com,udp,1195
+India via UK (UDP),india-uk-ca-version-2.expressnetw.com,udp,1195
 Indonesia (UDP),indonesia-ca-version-2.expressnetw.com,udp,1195
 Ireland (UDP),ireland-ca-version-2.expressnetw.com,udp,1195
 Isle Of Man (UDP),isleofman-ca-version-2.expressnetw.com,udp,1195
 Israel (UDP),israel-ca-version-2.expressnetw.com,udp,1195
 Italy - Cosenza (UDP),italy-cosenza-ca-version-2.expressnetw.com,udp,1195
 Italy - Milan (UDP),italy-milan-ca-version-2.expressnetw.com,udp,1195
-Japan - Tokyo - 1 (UDP),japan-tokyo-1-ca-version-2.expressnetw.com,udp,1195
+Japan - Tokyo (UDP),japan-tokyo-ca-version-2.expressnetw.com,udp,1195
 Japan - Tokyo - 2 (UDP),japan-tokyo-2-ca-version-2.expressnetw.com,udp,1195
 Jersey (UDP),jersey-ca-version-2.expressnetw.com,udp,1195
 Kazakhstan (UDP),kazakhstan-ca-version-2.expressnetw.com,udp,1195
 Kenya (UDP),kenya-ca-version-2.expressnetw.com,udp,1195
 Kyrgyzstan (UDP),kyrgyzstan-ca-version-2.expressnetw.com,udp,1195
+Laos (UDP),laos-ca-version-2.expressnetw.com,udp,1195
 Latvia (UDP),latvia-ca-version-2.expressnetw.com,udp,1195
 Liechtenstein (UDP),liechtenstein-ca-version-2.expressnetw.com,udp,1195
 Lithuania (UDP),lithuania-ca-version-2.expressnetw.com,udp,1195
@@ -77,12 +85,14 @@ Montenegro (UDP),montenegro-ca-version-2.expressnetw.com,udp,1195
 Myanmar (UDP),myanmar-ca-version-2.expressnetw.com,udp,1195
 Nepal (UDP),nepal-ca-version-2.expressnetw.com,udp,1195
 Netherlands - Amsterdam (UDP),netherlands-amsterdam-ca-version-2.expressnetw.com,udp,1195
+Netherlands - Amsterdam - 2 (UDP),netherlands-amsterdam-2-ca-version-2.expressnetw.com,udp,1195
 Netherlands - Rotterdam (UDP),netherlands-rotterdam-ca-version-2.expressnetw.com,udp,1195
 Netherlands - The Hague (UDP),netherlands-thehague-ca-version-2.expressnetw.com,udp,1195
 New Zealand (UDP),newzealand-ca-version-2.expressnetw.com,udp,1195
 Norway (UDP),norway-ca-version-2.expressnetw.com,udp,1195
 Pakistan (UDP),pakistan-ca-version-2.expressnetw.com,udp,1195
 Panama (UDP),panama-ca-version-2.expressnetw.com,udp,1195
+Peru (UDP),peru-ca-version-2.expressnetw.com,udp,1195
 Philippines Via Singapore (UDP),ph-via-sing-ca-version-2.expressnetw.com,udp,1195
 Poland (UDP),poland-ca-version-2.expressnetw.com,udp,1195
 Portugal (UDP),portugal-ca-version-2.expressnetw.com,udp,1195
@@ -91,26 +101,24 @@ Russia (UDP),russia-ca-version-2.expressnetw.com,udp,1195
 Serbia (UDP),serbia-ca-version-2.expressnetw.com,udp,1195
 Singapore - CBD (UDP),singapore-cbd-ca-version-2.expressnetw.com,udp,1195
 Singapore - Jurong (UDP),singapore-jurong-ca-version-2.expressnetw.com,udp,1195
+Singapore - Marina Bay (UDP),singapore-marinabay-ca-version-2.expressnetw.com,udp,1195
 Slovakia (UDP),slovakia-ca-version-2.expressnetw.com,udp,1195
 Slovenia (UDP),slovenia-ca-version-2.expressnetw.com,udp,1195
 South Africa (UDP),southafrica-ca-version-2.expressnetw.com,udp,1195
 South Korea - 2 (UDP),southkorea2-ca-version-2.expressnetw.com,udp,1195
-South Korea (UDP),southkorea-ca-version-2.expressnetw.com,udp,1195
-Spain (UDP),spain-ca-version-2.expressnetw.com,udp,1195
+Spain - Madrid (UDP),spain-ca-version-2.expressnetw.com,udp,1195
 Spain - Barcelona (UDP),spain-barcelona-ca-version-2.expressnetw.com,udp,1195
+Spain - Barcelona - 2 (UDP),spain-barcelona2-ca-version-2.expressnetw.com,udp,1195
 Sri Lanka (UDP),srilanka-ca-version-2.expressnetw.com,udp,1195
-Sweden - 2 (UDP),sweden-2-ca-version-2.expressnetw.com,udp,1195
+Sweden - 2 (UDP),sweden2-ca-version-2.expressnetw.com,udp,1195
 Sweden (UDP),sweden-ca-version-2.expressnetw.com,udp,1195
 Switzerland - 2 (UDP),switzerland-2-ca-version-2.expressnetw.com,udp,1195
 Switzerland (UDP),switzerland-ca-version-2.expressnetw.com,udp,1195
-Taiwan - 3 (UDP),taiwan-2-ca-version-2.expressnetw.com,udp,1195
+Taiwan - 3 (UDP),taiwan-3-ca-version-2.expressnetw.com,udp,1195
 Thailand (UDP),thailand-ca-version-2.expressnetw.com,udp,1195
 Turkey (UDP),turkey-ca-version-2.expressnetw.com,udp,1195
-UK - Berkshire - 2 (UDP),uk-berkshire-2-ca-version-2.expressnetw.com,udp,1195
-UK - Berkshire (UDP),uk-berkshire-ca-version-2.expressnetw.com,udp,1195
-UK - Docklands (UDP),uk-docklands-ca-version-2.expressnetw.com,udp,1195
+UK - Docklands (UDP),uk-1-docklands-ca-version-2.expressnetw.com,udp,1195
 UK - East London (UDP),uk-east-london-ca-version-2.expressnetw.com,udp,1195
-UK - Kent (UDP),uk-kent-ca-version-2.expressnetw.com,udp,1195
 UK - London (UDP),uk-london-ca-version-2.expressnetw.com,udp,1195
 Ukraine (UDP),ukraine-ca-version-2.expressnetw.com,udp,1195
 Uruguay (UDP),uruguay-ca-version-2.expressnetw.com,udp,1195
@@ -128,6 +136,7 @@ USA - Los Angeles - 4 (UDP),usa-los-angeles-4-ca-version-2.expressnetw.com,udp,1
 USA - Los Angeles - 5 (UDP),usa-losangeles5-ca-version-2.expressnetw.com,udp,1195
 USA - Los Angeles (UDP),usa-losangeles-ca-version-2.expressnetw.com,udp,1195
 USA - Miami (UDP),usa-miami-ca-version-2.expressnetw.com,udp,1195
+USA - Miami - 2 (UDP),usa-miami-2-ca-version-2.expressnetw.com,udp,1195
 USA - Minneapolis (UDP),usa-minneapolis-ca-version-2.expressnetw.com,udp,1195
 USA - New Jersey - 1 (UDP),usa-newjersey-1-ca-version-2.expressnetw.com,udp,1195
 USA - New Jersey - 2 (UDP),usa-newjersey2-ca-version-2.expressnetw.com,udp,1195
@@ -143,5 +152,6 @@ USA - Tampa - 1 (UDP),usa-tampa-1-ca-version-2.expressnetw.com,udp,1195
 USA - Virginia (UDP),usa-virginia-ca-version-2.expressnetw.com,udp,1195
 USA - Washington DC - 2 (UDP),usa-washingtondc-2-ca-version-2.expressnetw.com,udp,1195
 USA - Washington DC (UDP),usa-washingtondc-ca-version-2.expressnetw.com,udp,1195
+Uzbekistan (UDP),uzbekistan-ca-version-2.expressnetw.com,udp,1195
 Venezuela (UDP),venezuela-ca-version-2.expressnetw.com,udp,1195
 Vietnam (UDP),vietnam-ca-version-2.expressnetw.com,udp,1195
